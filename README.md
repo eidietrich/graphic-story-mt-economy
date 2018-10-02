@@ -1,3 +1,7 @@
+# Scrollytelling template
+
+Template for building scrollytelling data viz packages. Adapted from https://github.com/the-pudding/blog_scrollytelling-sticky
+
 # Development
 
 Run `gulp` to fire up the project server.
