@@ -1,15 +1,32 @@
-<div class='scrolly tk-atlas'>
+<section id='scroller'>
+	<div class='scrolly tk-atlas'>
 	
-	<figure class='sticky'>
-		<div class='bar-outer'>
-			<div class='bar-inner'></div>
-		</div>
-	</figure>
+		<figure class='sticky'>
+			<div class='figure-container active' id='graphic-1'>
+				{{> story/graphic-1}}
+			</div>
+			<div class='figure-container' id='graphic-2'>
+				{{> story/graphic-2}}
+			</div>
+			<div class='figure-container' id='graphic-table'>
+				{{> story/graphic-table}}
+			</div>
+			<div class='figure-container' id='graphic-3'>
+				{{> story/graphic-3}}
+			</div>
+				
+		</figure>
 
-	<article>
-		<div class='step' data-width='10%' data-index='0'><p>Bar is 10%</p></div>
-		<div class='step' data-width='90%' data-index='1'><p>Bar is 90%</p></div>
-		<div class='step' data-width='50%' data-index='2'><p>Bar is 50%</p></div>
-	</article>
+		<article>
+			{{#each copy.scroller-steps}}
+				<div class='step' data-index='{{@index}}'
+					data-graphic='{{graphic}}'
+					data-graphic-index='{{graphic-index}}'
+					>
+					<p>{{step}}</p>
+				</div>
+			{{/each}}
+		</article>
 
-</div>
+	</div>
+</section>

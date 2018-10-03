@@ -10,13 +10,13 @@
 	"imgTwitter":
 		"https://pudding.cool/process/scrollytelling-sticky/assets/social/social-twitter.jpg",
 	"author": {
-		"name": "Russell Goldenberg",
-		"url": "https://pudding.cool/author/russell-goldenberg",
-		"twitterHandle": "@codenberg"
+		"name": "Person 1",
+		"url": "",
+		"twitterHandle": ""
 	},
 	"author2": {
-		"name": "Elaina Natario",
-		"url": "https://pudding.cool/author/elaina-natario",
-		"twitterHandle": "@elainanatario"
+		"name": "Person 2",
+		"url": "",
+		"twitterHandle": ""
 	}
 }

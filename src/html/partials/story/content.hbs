@@ -1,8 +1,36 @@
-{{#each copy.sections}}
+<section id='intro'>
+	<div class='prose'>
+		{{#if copy.sections.0.hed}}
+		<h3 class='prose__hed tk-atlas'>
+			<strong>{{{copy.sections.0.hed}}}</strong>
+		</h3>
+		{{/if}}
+		{{#each copy.sections.0.text}}
+		<p>{{{value}}}</p>
+		{{/each}}
+	</div>
+</section>
+
+{{> story/scroller}}
+
+<section id='outro'>
+	<div class='prose'>
+		{{#if copy.sections.2.hed}}
+		<h3 class='prose__hed tk-atlas'>
+			<strong>{{{copy.sections.2.hed}}}</strong>
+		</h3>
+		{{/if}}
+		{{#each copy.sections.2.text}}
+		<p>{{{value}}}</p>
+		{{/each}}
+	</div>
+</section>
+
+{{!-- {{#each copy.sections}}
 <section id='{{id}}'>
 	{{#ifEquals id 'scrolly-side'}} {{> story/scrolly-side}} {{/ifEquals}}
 	{{#ifEquals id 'scrolly-overlay'}} {{> story/scrolly-overlay}} {{/ifEquals}}
-	{{#ifEquals id 'scroller'}} {{> story/scroller}} {{/ifEquals}}
+	{{#ifEquals id 'scroller'}} {{> story/scroller data=copy }} {{/ifEquals}}
 	<div class='prose'>
 		{{#if hed}}
 		<h3 class='prose__hed tk-atlas'>
@@ -17,4 +45,4 @@
 	 {{#ifEquals id 'code-css'}} <pre data-src='assets/prism/code.css'></pre> {{/ifEquals}}
 	 {{#ifEquals id 'code-js'}} <pre data-src='assets/prism/code.js'></pre> {{/ifEquals}}
 </section>
-{{/each}}
+{{/each}} --}}
