@@ -10,12 +10,12 @@
 	"imgTwitter":
 		"https://pudding.cool/process/scrollytelling-sticky/assets/social/social-twitter.jpg",
 	"author": {
-		"name": "Person 1",
-		"url": "",
+		"name": "Eric Dietrich",
+		"url": "https://twitter.com/eidietrich",
 		"twitterHandle": ""
 	},
 	"author2": {
-		"name": "Person 2",
+		"name": "",
 		"url": "",
 		"twitterHandle": ""
 	}

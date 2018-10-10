@@ -1,0 +1,116 @@
+<section id='intro'>
+	<div class='prose'>
+		{{#if copy.intro.hed}}
+		<h3 class='prose__hed tk-atlas'>
+			<strong>{{{copy.intro.hed}}}</strong>
+		</h3>
+		{{/if}}
+		{{#each copy.intro.text}}
+		<p>{{{value}}}</p>
+		{{/each}}
+	</div>
+</section>
+
+<section id='graphic-1'>
+    {{#if copy.graphics.0.hed}}
+    <div class='prose'></div>
+        <h3 class='graphic__hed tk-atlas'>
+            <strong>{{{copy.graphics.0.hed}}}</strong>
+        </h3>
+    </div>
+    {{/if}}
+    <div class='figure-container'>
+        {{> story/mt-economy-1-overview}}
+    </div>
+    <div class='prose'>
+		{{#each copy.graphics.0.text}}
+		<p>{{{value}}}</p>
+		{{/each}}
+	</div>
+</section>
+
+<section id='graphic-2'>
+    {{#if copy.graphics.1.hed}}
+    <div class='prose'></div>
+        <h3 class='graphic__hed tk-atlas'>
+            <strong>{{{copy.graphics.1.hed}}}</strong>
+        </h3>
+    </div>
+    {{/if}}
+    <div class='figure-container'>
+        {{> story/mt-economy-2-regions}}
+    </div>
+    <div class='prose'>
+		{{#each copy.graphics.1.text}}
+		<p>{{{value}}}</p>
+		{{/each}}
+	</div>
+</section>
+
+<section id='graphic-3'>
+    {{#if copy.graphics.2.hed}}
+    <div class='prose'></div>
+        <h3 class='graphic__hed tk-atlas'>
+            <strong>{{{copy.graphics.2.hed}}}</strong>
+        </h3>
+    </div>
+    {{/if}}
+    <div class='figure-container'>
+        {{> story/mt-economy-3-regional-change}}
+    </div>
+    <div class='prose'>
+		{{#each copy.graphics.2.text}}
+		<p>{{{value}}}</p>
+		{{/each}}
+	</div>
+</section>
+
+<section id='graphic-4'>
+    {{#if copy.graphics.3.hed}}
+    <div class='prose'></div>
+        <h3 class='graphic__hed tk-atlas'>
+            <strong>{{{copy.graphics.3.hed}}}</strong>
+        </h3>
+    </div>
+    {{/if}}
+    <div class='figure-container'>
+        {{> story/mt-economy-4-sector-change}}
+    </div>
+    <div class='prose'>
+		{{#each copy.graphics.3.text}}
+		<p>{{{value}}}</p>
+		{{/each}}
+	</div>
+</section>
+
+<section id='graphic-5'>
+    {{#if copy.graphics.4.hed}}
+    <div class='prose'></div>
+        <h3 class='graphic__hed tk-atlas'>
+            <strong>{{{copy.graphics.4.hed}}}</strong>
+        </h3>
+    </div>
+    {{/if}}
+    <div class='figure-container'>
+        {{> story/mt-economy-5-income-components}}
+    </div>
+    <div class='prose'>
+		{{#each copy.graphics.4.text}}
+		<p>{{{value}}}</p>
+		{{/each}}
+	</div>
+</section>
+
+
+<section id='outro'>
+	<div class='prose'>
+		{{#if copy.outro.hed}}
+		<h3 class='prose__hed tk-atlas'>
+			<strong>{{{copy.outro.hed}}}</strong>
+		</h3>
+		{{/if}}
+		{{#each copy.outro.text}}
+		<p>{{{value}}}</p>
+		{{/each}}
+	</div>
+</section>
