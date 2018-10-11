@@ -387,7 +387,7 @@
 				<rect x="97.857" y="134.367" fill="#CCCCCC" width="14.286" height="5.133"/>
 			</g>
 			<g>
-				<line fill="none" stroke="#000000" x1="-5" y1="139.5" x2="115" y2="139.5"/>
+				<line fill="none" stroke="#000000" x1="-4.5" y1="140" x2="115.5" y2="140"/>
 			</g>
 			<g>
 				<text transform="matrix(1 0 0 1 -0.9333 87)" display="none" font-family="'Arial-BoldMT'" font-size="14px">Rural Mountains</text>
@@ -460,8 +460,10 @@
 					<text transform="matrix(1 0 0 1 -30.123 95.2)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
 				</g>
 			</g>
+			<line fill="none" stroke="#000000" x1="-5.5" y1="140" x2="114.5" y2="140"/>
 		</g>
 	</g>
+	<rect x="40" y="38.5" fill="none" stroke="#666666" width="521" height="199"/>
 </g>
 <style type="text/css">
 #g-mt-economy-3-regional-change-medium-img rect, #g-mt-economy-3-regional-change-medium-img circle, #g-mt-economy-3-regional-change-medium-img path, #g-mt-economy-3-regional-change-medium-img line, #g-mt-economy-3-regional-change-medium-img polyline { vector-effect: non-scaling-stroke; }
