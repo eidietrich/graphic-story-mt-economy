@@ -5,7 +5,7 @@ github:
 	cp -r dist/ docs
 	git add -A
 	git commit -m "update dev version"
-	git push
+	git push origin master
 
 archive:
 	zip -r archive.zip dev
