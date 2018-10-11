@@ -1,6 +1,7 @@
 PHONY: github aws-assets aws-htmljs aws-cache live
 
 github:
+	gulp dist
 	rm -rf docs
 	cp -r dist/ docs
 	git add -A

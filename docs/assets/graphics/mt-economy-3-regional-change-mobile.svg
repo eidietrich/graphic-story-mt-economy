@@ -34,10 +34,10 @@
 				<line fill="none" stroke="#000000" x1="-16.667" y1="128" x2="41.667" y2="128"/>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 -14.0054 66.5)" display="none" font-family="'Arial-BoldMT'" font-size="12px">Bozeman</text>
+				<text transform="matrix(1 0 0 1 -9.5903 66.5)" display="none" font-family="'Arial-BoldMT'" font-size="12px">Bozeman</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 -6.3608 83.5)" display="none" font-family="'Arial-ItalicMT'" font-size="12px">+29k jobs</text>
+				<text transform="matrix(1 0 0 1 -8.7759 83.5)" display="none" font-family="'Arial-ItalicMT'" font-size="12px">+29k jobs</text>
 			</g>
 			<g transform="translate(5,0)">
 				<g transform="translate(0,58)">
