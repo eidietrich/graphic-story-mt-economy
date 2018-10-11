@@ -7,9 +7,9 @@ Text from GDoc
 Currently: https://docs.google.com/document/d/1M0D0dZWYzxAqlbRyN22F7VKfh34ysDw92moheoSEhR4/edit
 
 DATA SOURCES
-State employment data (available through 2017) - SA25N (for 2017, via download and spreadsheet cleaning)
-Local area employment data - 25N (historical, via API)
-Income data
+- State employment data (available through 2017) - SA25N (for 2017, via download and spreadsheet cleaning)
+- Local area employment data - 25N (historical, via API)
+- Income data (lookup table code)
 
 TODO
 - Fine-tune other graphs
@@ -20,6 +20,7 @@ TODO
 - Export graphics as static pngs (600px wide at 2x resolution) for easier republication
 - Add in chart-headers
 - Build 'pick-a-county' interactive --> design so papers can create their own visuals?  
+- Write nerd box --> figure out what to include/cite
 
 
 GRAPHIC-LEVEL TODO
