@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.2" baseProfile="tiny" id="g-mt-economy-3-regional-change-medium-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 600 469" xml:space="preserve">
+	 x="0px" y="0px" viewBox="0 0 600 525" xml:space="preserve">
 <g>
 	<g>
 		<g>
 			<g transform="translate(170,0)">
 				<rect x="-38" y="45" fill="none" stroke="#86BF86" width="160" height="87.5"/>
 				<g>
-					<g transform="translate(0,48)">
-						<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-8" y1="65" x2="112" y2="65"/>
-					</g>
 					<g transform="translate(0,32.16666666666667)">
 						<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-8" y1="65" x2="112" y2="65"/>
 					</g>
@@ -35,10 +32,10 @@
 					<line fill="none" stroke="#000000" x1="-8" y1="112.5" x2="112" y2="112.5"/>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 19.784 60)" display="none" font-family="'Arial-BoldMT'" font-size="14px">Bozeman</text>
+					<text transform="matrix(1 0 0 1 15.3387 60)" display="none" font-family="'Arial-BoldMT'" font-size="16px">Bozeman</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 15.6797 77)" display="none" font-family="'Arial-ItalicMT'" font-size="14px">+29k jobs</text>
+					<text transform="matrix(1 0 0 1 17.834 77)" display="none" font-family="'Arial-ItalicMT'" font-size="13px">+29k jobs</text>
 				</g>
 				<g transform="translate(5,0)">
 					<g transform="translate(0,48)">
@@ -58,9 +55,6 @@
 			<g transform="translate(340,0)">
 				<rect x="-38" y="45" fill="none" stroke="#86BF86" width="160" height="87.5"/>
 				<g>
-					<g transform="translate(0,48)">
-						<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-8" y1="65" x2="112" y2="65"/>
-					</g>
 					<g transform="translate(0,32.16666666666667)">
 						<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-8" y1="65" x2="112" y2="65"/>
 					</g>
@@ -85,10 +79,10 @@
 					<line fill="none" stroke="#000000" x1="-8" y1="112.5" x2="112" y2="112.5"/>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 21.4587 60)" display="none" font-family="'Arial-BoldMT'" font-size="14px">Billings</text>
+					<text transform="matrix(1 0 0 1 17.8473 60)" display="none" font-family="'Arial-BoldMT'" font-size="16px">Billings</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 15.6797 77)" display="none" font-family="'Arial-ItalicMT'" font-size="14px">+20k jobs</text>
+					<text transform="matrix(1 0 0 1 17.834 77)" display="none" font-family="'Arial-ItalicMT'" font-size="13px">+20k jobs</text>
 				</g>
 				<g transform="translate(5,0)">
 					<g transform="translate(0,48)">
@@ -110,9 +104,6 @@
 			<g transform="translate(0,97.5)">
 				<rect x="50" y="45" fill="none" stroke="#86BF86" width="160" height="87.5"/>
 				<g>
-					<g transform="translate(0,48)">
-						<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="80" y1="65" x2="200" y2="65"/>
-					</g>
 					<g transform="translate(0,32.16666666666667)">
 						<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="80" y1="65" x2="200" y2="65"/>
 					</g>
@@ -137,10 +128,10 @@
 					<line fill="none" stroke="#000000" x1="80" y1="112.5" x2="200" y2="112.5"/>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 99.0967 60)" display="none" font-family="'Arial-BoldMT'" font-size="14px">Missoula</text>
+					<text transform="matrix(1 0 0 1 94.8179 60)" display="none" font-family="'Arial-BoldMT'" font-size="16px">Missoula</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 103.6797 77)" display="none" font-family="'Arial-ItalicMT'" font-size="14px">+17k jobs</text>
+					<text transform="matrix(1 0 0 1 105.834 77)" display="none" font-family="'Arial-ItalicMT'" font-size="13px">+17k jobs</text>
 				</g>
 				<g transform="translate(5,0)">
 					<g transform="translate(0,48)">
@@ -160,9 +151,6 @@
 			<g transform="translate(170,97.5)">
 				<rect x="50" y="45" fill="none" stroke="#86BF86" width="160" height="87.5"/>
 				<g>
-					<g transform="translate(0,48)">
-						<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="80" y1="65" x2="200" y2="65"/>
-					</g>
 					<g transform="translate(0,32.16666666666667)">
 						<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="80" y1="65" x2="200" y2="65"/>
 					</g>
@@ -187,10 +175,10 @@
 					<line fill="none" stroke="#000000" x1="80" y1="112.5" x2="200" y2="112.5"/>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 101.4209 60)" display="none" font-family="'Arial-BoldMT'" font-size="14px">Kalispell</text>
+					<text transform="matrix(1 0 0 1 97.3081 60)" display="none" font-family="'Arial-BoldMT'" font-size="16px">Kalispell</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 103.6797 77)" display="none" font-family="'Arial-ItalicMT'" font-size="14px">+14k jobs</text>
+					<text transform="matrix(1 0 0 1 105.834 77)" display="none" font-family="'Arial-ItalicMT'" font-size="13px">+14k jobs</text>
 				</g>
 				<g transform="translate(5,0)">
 					<g transform="translate(0,48)">
@@ -210,9 +198,6 @@
 			<g transform="translate(340,97.5)">
 				<rect x="50" y="45" fill="none" stroke="#86BF86" width="160" height="87.5"/>
 				<g>
-					<g transform="translate(0,48)">
-						<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="80" y1="65" x2="200" y2="65"/>
-					</g>
 					<g transform="translate(0,32.16666666666667)">
 						<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="80" y1="65" x2="200" y2="65"/>
 					</g>
@@ -237,10 +222,10 @@
 					<line fill="none" stroke="#000000" x1="80" y1="112.5" x2="200" y2="112.5"/>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 113.0898 60)" display="none" font-family="'Arial-BoldMT'" font-size="14px">Helena</text>
+					<text transform="matrix(1 0 0 1 109.8105 60)" display="none" font-family="'Arial-BoldMT'" font-size="16px">Helena</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 99.79 77)" display="none" font-family="'Arial-ItalicMT'" font-size="14px">+9.3k jobs</text>
+					<text transform="matrix(1 0 0 1 102.0835 77)" display="none" font-family="'Arial-ItalicMT'" font-size="13px">+9.3k jobs</text>
 				</g>
 				<g transform="translate(5,0)">
 					<g transform="translate(0,48)">
@@ -261,209 +246,306 @@
 	</g>
 	<g>
 		<g transform="translate(170,195)">
-			<rect x="-35" y="72" fill="none" stroke="#86BF86" width="160" height="87.5"/>
+			<rect x="-35" y="135" fill="none" stroke="#86BF86" width="160" height="87.5"/>
 			<g>
-				<g transform="translate(0,48)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
-				</g>
 				<g transform="translate(0,32.16666666666667)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 				<g transform="translate(0,16.333333333333336)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 				<g transform="translate(0,0.5)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 			</g>
 			<g>
-				<rect x="-2.143" y="135.792" fill="#66A61E" width="14.286" height="3.708"/>
-				<rect x="12.143" y="139.5" fill="#E7298A" width="14.286" height="1.479"/>
-				<rect x="26.429" y="139.5" fill="#A6761D" width="14.286" height="0.396"/>
-				<rect x="40.714" y="135.159" fill="#E6AB02" width="14.286" height="4.341"/>
-				<rect x="55" y="138.417" fill="#1B9E77" width="14.286" height="1.083"/>
-				<rect x="69.286" y="138.699" fill="#D95F02" width="14.286" height="0.801"/>
-				<rect x="83.571" y="138.768" fill="#7570B3" width="14.286" height="0.731"/>
-				<rect x="97.857" y="139.5" fill="#CCCCCC" width="14.286" height="0.874"/>
+				<rect x="-2.143" y="198.792" fill="#66A61E" width="14.286" height="3.708"/>
+				<rect x="12.143" y="202.5" fill="#E7298A" width="14.286" height="1.479"/>
+				<rect x="26.429" y="202.5" fill="#A6761D" width="14.286" height="0.396"/>
+				<rect x="40.714" y="198.159" fill="#E6AB02" width="14.286" height="4.341"/>
+				<rect x="55" y="201.417" fill="#1B9E77" width="14.286" height="1.083"/>
+				<rect x="69.286" y="201.699" fill="#D95F02" width="14.286" height="0.801"/>
+				<rect x="83.571" y="201.768" fill="#7570B3" width="14.286" height="0.731"/>
+				<rect x="97.857" y="202.5" fill="#CCCCCC" width="14.286" height="0.874"/>
 			</g>
 			<g>
-				<line fill="none" stroke="#000000" x1="-5" y1="139.5" x2="115" y2="139.5"/>
+				<line fill="none" stroke="#000000" x1="-5" y1="202.5" x2="115" y2="202.5"/>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 14.7186 87)" display="none" font-family="'Arial-BoldMT'" font-size="14px">Great Falls</text>
+				<text transform="matrix(1 0 0 1 9.5496 150)" display="none" font-family="'Arial-BoldMT'" font-size="16px">Great Falls</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 14.79 104)" display="none" font-family="'Arial-ItalicMT'" font-size="14px">+2.5k jobs</text>
+				<text transform="matrix(1 0 0 1 17.0835 167)" display="none" font-family="'Arial-ItalicMT'" font-size="13px">+2.5k jobs</text>
 			</g>
 			<g transform="translate(5,0)">
 				<g transform="translate(0,48)">
-					<text transform="matrix(1 0 0 1 -19.5615 95.2)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
+					<text transform="matrix(1 0 0 1 -19.5615 158.2)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
 				</g>
 				<g transform="translate(0,32.16666666666667)">
-					<text transform="matrix(1 0 0 1 -24.5615 95.2)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
+					<text transform="matrix(1 0 0 1 -24.5615 158.2)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
 				</g>
 				<g transform="translate(0,16.333333333333336)">
-					<text transform="matrix(1 0 0 1 -30.123 95.2)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
+					<text transform="matrix(1 0 0 1 -30.123 158.2)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
 				</g>
 				<g transform="translate(0,0.5)">
-					<text transform="matrix(1 0 0 1 -30.123 95.2)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
+					<text transform="matrix(1 0 0 1 -30.123 158.2)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
 				</g>
 			</g>
 		</g>
 		<g transform="translate(340,195)">
-			<rect x="-35" y="72" fill="none" stroke="#86BF86" width="160" height="87.5"/>
+			<rect x="-35" y="135" fill="none" stroke="#86BF86" width="160" height="87.5"/>
 			<g>
-				<g transform="translate(0,48)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
-				</g>
 				<g transform="translate(0,32.16666666666667)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 				<g transform="translate(0,16.333333333333336)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 				<g transform="translate(0,0.5)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 			</g>
 			<g>
-				<rect x="-2.143" y="136.583" fill="#66A61E" width="14.286" height="2.917"/>
-				<rect x="12.143" y="139.5" fill="#E7298A" width="14.286" height="2.245"/>
-				<rect x="26.429" y="139.5" fill="#A6761D" width="14.286" height="0.171"/>
-				<rect x="40.714" y="134.953" fill="#E6AB02" width="14.286" height="4.547"/>
-				<rect x="55" y="137.907" fill="#1B9E77" width="14.286" height="1.593"/>
-				<rect x="69.286" y="139.24" fill="#D95F02" width="14.286" height="0.26"/>
-				<rect x="83.571" y="138.914" fill="#7570B3" width="14.286" height="0.586"/>
-				<rect x="97.857" y="137.391" fill="#CCCCCC" width="14.286" height="2.109"/>
+				<rect x="-2.143" y="199.583" fill="#66A61E" width="14.286" height="2.917"/>
+				<rect x="12.143" y="202.5" fill="#E7298A" width="14.286" height="2.245"/>
+				<rect x="26.429" y="202.5" fill="#A6761D" width="14.286" height="0.171"/>
+				<rect x="40.714" y="197.953" fill="#E6AB02" width="14.286" height="4.547"/>
+				<rect x="55" y="200.907" fill="#1B9E77" width="14.286" height="1.593"/>
+				<rect x="69.286" y="202.24" fill="#D95F02" width="14.286" height="0.26"/>
+				<rect x="83.571" y="201.914" fill="#7570B3" width="14.286" height="0.586"/>
+				<rect x="97.857" y="200.391" fill="#CCCCCC" width="14.286" height="2.109"/>
 			</g>
 			<g>
-				<line fill="none" stroke="#000000" x1="-5" y1="139.5" x2="115" y2="139.5"/>
+				<line fill="none" stroke="#000000" x1="-5" y1="202.5" x2="115" y2="202.5"/>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 28.8517 87)" display="none" font-family="'Arial-BoldMT'" font-size="14px">Butte</text>
+				<text transform="matrix(1 0 0 1 26.2966 150)" display="none" font-family="'Arial-BoldMT'" font-size="16px">Butte</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 14.79 104)" display="none" font-family="'Arial-ItalicMT'" font-size="14px">+3.0k jobs</text>
+				<text transform="matrix(1 0 0 1 17.0835 167)" display="none" font-family="'Arial-ItalicMT'" font-size="13px">+3.0k jobs</text>
 			</g>
 			<g transform="translate(5,0)">
 				<g transform="translate(0,48)">
-					<text transform="matrix(1 0 0 1 -19.5615 95.2)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
+					<text transform="matrix(1 0 0 1 -19.5615 158.2)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
 				</g>
 				<g transform="translate(0,32.16666666666667)">
-					<text transform="matrix(1 0 0 1 -24.5615 95.2)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
+					<text transform="matrix(1 0 0 1 -24.5615 158.2)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
 				</g>
 				<g transform="translate(0,16.333333333333336)">
-					<text transform="matrix(1 0 0 1 -30.123 95.2)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
+					<text transform="matrix(1 0 0 1 -30.123 158.2)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
 				</g>
 				<g transform="translate(0,0.5)">
-					<text transform="matrix(1 0 0 1 -30.123 95.2)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
+					<text transform="matrix(1 0 0 1 -30.123 158.2)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
 				</g>
 			</g>
 		</g>
 		<g transform="translate(170,292.5)">
-			<rect x="-35" y="72" fill="none" stroke="#E5AE89" width="160" height="87.5"/>
+			<rect x="-35" y="135" fill="none" stroke="#E5AE89" width="160" height="87.5"/>
 			<g>
 				<g transform="translate(0,48)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 				<g transform="translate(0,32.16666666666667)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 				<g transform="translate(0,16.333333333333336)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 				<g transform="translate(0,0.5)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 			</g>
 			<g>
-				<rect x="-2.143" y="128.714" fill="#66A61E" width="14.286" height="10.786"/>
-				<rect x="12.143" y="135.7" fill="#E7298A" width="14.286" height="3.8"/>
-				<rect x="26.429" y="139.202" fill="#A6761D" width="14.286" height="0.298"/>
-				<rect x="40.714" y="132.752" fill="#E6AB02" width="14.286" height="6.748"/>
-				<rect x="55" y="139.5" fill="#1B9E77" width="14.286" height="0.472"/>
-				<rect x="69.286" y="139.5" fill="#D95F02" width="14.286" height="0.88"/>
-				<rect x="83.571" y="139.5" fill="#7570B3" width="14.286" height="3.369"/>
-				<rect x="97.857" y="134.367" fill="#CCCCCC" width="14.286" height="5.133"/>
+				<rect x="-2.143" y="191.714" fill="#66A61E" width="14.286" height="10.786"/>
+				<rect x="12.143" y="198.7" fill="#E7298A" width="14.286" height="3.8"/>
+				<rect x="26.429" y="202.202" fill="#A6761D" width="14.286" height="0.298"/>
+				<rect x="40.714" y="195.752" fill="#E6AB02" width="14.286" height="6.748"/>
+				<rect x="55" y="202.5" fill="#1B9E77" width="14.286" height="0.472"/>
+				<rect x="69.286" y="202.5" fill="#D95F02" width="14.286" height="0.88"/>
+				<rect x="83.571" y="202.5" fill="#7570B3" width="14.286" height="3.369"/>
+				<rect x="97.857" y="197.367" fill="#CCCCCC" width="14.286" height="5.133"/>
 			</g>
 			<g>
-				<line fill="none" stroke="#000000" x1="-4.5" y1="140" x2="115.5" y2="140"/>
+				<line fill="none" stroke="#000000" x1="-4.5" y1="203" x2="115.5" y2="203"/>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 -0.9333 87)" display="none" font-family="'Arial-BoldMT'" font-size="14px">Rural Mountains</text>
+				<text transform="matrix(1 0 0 1 -8.7668 150)" display="none" font-family="'Arial-BoldMT'" font-size="16px">Rural Mountains</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 14.79 104)" display="none" font-family="'Arial-ItalicMT'" font-size="14px">+7.0k jobs</text>
+				<text transform="matrix(1 0 0 1 17.0835 167)" display="none" font-family="'Arial-ItalicMT'" font-size="13px">+7.0k jobs</text>
 			</g>
 			<g transform="translate(5,0)">
 				<g transform="translate(0,48)">
-					<text transform="matrix(1 0 0 1 -19.5615 95.2)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
+					<text transform="matrix(1 0 0 1 -19.5615 158.2)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
 				</g>
 				<g transform="translate(0,32.16666666666667)">
-					<text transform="matrix(1 0 0 1 -24.5615 95.2)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
+					<text transform="matrix(1 0 0 1 -24.5615 158.2)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
 				</g>
 				<g transform="translate(0,16.333333333333336)">
-					<text transform="matrix(1 0 0 1 -30.123 95.2)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
+					<text transform="matrix(1 0 0 1 -30.123 158.2)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
 				</g>
 				<g transform="translate(0,0.5)">
-					<text transform="matrix(1 0 0 1 -30.123 95.2)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
+					<text transform="matrix(1 0 0 1 -30.123 158.2)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
 				</g>
 			</g>
 		</g>
 		<g transform="translate(340,292.5)">
-			<rect x="-35" y="72" fill="none" stroke="#F2DF91" width="160" height="87.5"/>
+			<rect x="-35" y="135" fill="none" stroke="#F2DF91" width="160" height="87.5"/>
 			<g>
 				<g transform="translate(0,48)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 				<g transform="translate(0,32.16666666666667)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 				<g transform="translate(0,16.333333333333336)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 				<g transform="translate(0,0.5)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="92" x2="115" y2="92"/>
+					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-5" y1="155" x2="115" y2="155"/>
 				</g>
 			</g>
 			<g>
-				<rect x="-2.143" y="131.84" fill="#66A61E" width="14.286" height="7.66"/>
-				<rect x="12.143" y="133.556" fill="#E7298A" width="14.286" height="5.944"/>
-				<rect x="26.429" y="139.5" fill="#A6761D" width="14.286" height="5.051"/>
-				<rect x="40.714" y="139.5" fill="#E6AB02" width="14.286" height="2.423"/>
-				<rect x="55" y="137.296" fill="#1B9E77" width="14.286" height="2.204"/>
-				<rect x="69.286" y="138.202" fill="#D95F02" width="14.286" height="1.298"/>
-				<rect x="83.571" y="139.5" fill="#7570B3" width="14.286" height="0.655"/>
-				<rect x="97.857" y="122.65" fill="#CCCCCC" width="14.286" height="16.85"/>
+				<rect x="-2.143" y="194.84" fill="#66A61E" width="14.286" height="7.66"/>
+				<rect x="12.143" y="196.556" fill="#E7298A" width="14.286" height="5.944"/>
+				<rect x="26.429" y="202.5" fill="#A6761D" width="14.286" height="5.051"/>
+				<rect x="40.714" y="202.5" fill="#E6AB02" width="14.286" height="2.423"/>
+				<rect x="55" y="200.296" fill="#1B9E77" width="14.286" height="2.204"/>
+				<rect x="69.286" y="201.202" fill="#D95F02" width="14.286" height="1.298"/>
+				<rect x="83.571" y="202.5" fill="#7570B3" width="14.286" height="0.655"/>
+				<rect x="97.857" y="185.65" fill="#CCCCCC" width="14.286" height="16.85"/>
 			</g>
 			<g>
-				<path fill="none" stroke="#000000" d="M115,139.5"/>
-				<path fill="none" stroke="#000000" d="M-5,139.5"/>
+				<path fill="none" stroke="#000000" d="M115,202.5"/>
+				<path fill="none" stroke="#000000" d="M-5,202.5"/>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 6.2795 87)" display="none" font-family="'Arial-BoldMT'" font-size="14px">Rural Plains</text>
+				<text transform="matrix(1 0 0 1 0.4997 150)" display="none" font-family="'Arial-BoldMT'" font-size="16px">Rural Plains</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 14.79 104)" display="none" font-family="'Arial-ItalicMT'" font-size="14px">+8.2k jobs</text>
+				<text transform="matrix(1 0 0 1 17.0835 167)" display="none" font-family="'Arial-ItalicMT'" font-size="13px">+8.2k jobs</text>
 			</g>
 			<g transform="translate(5,0)">
 				<g transform="translate(0,48)">
-					<text transform="matrix(1 0 0 1 -19.5615 95.2)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
+					<text transform="matrix(1 0 0 1 -19.5615 158.2)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
 				</g>
 				<g transform="translate(0,32.16666666666667)">
-					<text transform="matrix(1 0 0 1 -24.5615 95.2)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
+					<text transform="matrix(1 0 0 1 -24.5615 158.2)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
 				</g>
 				<g transform="translate(0,16.333333333333336)">
-					<text transform="matrix(1 0 0 1 -30.123 95.2)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
+					<text transform="matrix(1 0 0 1 -30.123 158.2)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
 				</g>
 				<g transform="translate(0,0.5)">
-					<text transform="matrix(1 0 0 1 -30.123 95.2)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
+					<text transform="matrix(1 0 0 1 -30.123 158.2)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
 				</g>
 			</g>
-			<line fill="none" stroke="#000000" x1="-5.5" y1="140" x2="114.5" y2="140"/>
+			<line fill="none" stroke="#000000" x1="-5.5" y1="203" x2="114.5" y2="203"/>
 		</g>
 	</g>
-	<rect x="40" y="38.5" fill="none" stroke="#666666" width="521" height="199"/>
+	<g>
+		<g>
+			
+				<rect x="205.991" y="274.445" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 419.1795 556.0883)" fill="#E4AB23" stroke="#FFFFFF" width="7.198" height="7.198"/>
+			<g transform="translate(0,41.635802469135804)">
+				<text transform="matrix(1 0 0 1 217.5688 239.5275)" display="none" font-family="'ArialMT'" font-size="12px">Healthcare</text>
+			</g>
+		</g>
+		<g>
+			
+				<rect x="205.991" y="264.615" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 419.1795 536.4287)" fill="#A4772B" stroke="#FFFFFF" width="7.198" height="7.198"/>
+			<g transform="translate(0,53.364197530864196)">
+				<text transform="matrix(1 0 0 1 217.5688 217.9328)" display="none" font-family="'ArialMT'" font-size="12px">Government</text>
+			</g>
+		</g>
+		<g>
+			
+				<rect x="205.991" y="254.786" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 419.1795 516.7692)" fill="#E52A89" stroke="#FFFFFF" width="7.198" height="7.198"/>
+			<g transform="translate(0,65.09259259259258)">
+				<g display="none">
+					<text transform="matrix(1 0 0 1 217.5688 196.3381)" display="inline" font-family="'ArialMT'" font-size="12px">T</text>
+					<text transform="matrix(1 0 0 1 224.4536 196.3381)" display="inline" font-family="'ArialMT'" font-size="12px">r</text>
+					<text transform="matrix(1 0 0 1 228.4497 196.3381)" display="inline" font-family="'ArialMT'" font-size="12px">a</text>
+					<text transform="matrix(1 0 0 1 235.1235 196.3381)" display="inline" font-family="'ArialMT'" font-size="12px">d</text>
+					<text transform="matrix(1 0 0 1 241.7974 196.3381)" display="inline" font-family="'ArialMT'" font-size="12px">e</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			
+				<rect x="205.991" y="244.956" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 419.1795 497.1096)" fill="#65A644" stroke="#FFFFFF" width="7.198" height="7.198"/>
+			<g transform="translate(0,76.82098765432099)">
+				<text transform="matrix(1 0 0 1 217.5688 174.7435)" display="none" font-family="'ArialMT'" font-size="12px">Services</text>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 301.1968 271.2973)" display="none" font-family="'ArialMT'" font-size="12px">Manufacturing</text>
+			
+				<rect x="290.235" y="264.469" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 587.6678 536.1353)" fill="#7670B2" stroke="#FFFFFF" width="7.198" height="7.198"/>
+		</g>
+		<g>
+			
+				<rect x="290.235" y="254.639" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 587.6678 516.4757)" fill="#D66127" stroke="#FFFFFF" width="7.198" height="7.198"/>
+			<g transform="translate(0,18.17901234567901)">
+				<text transform="matrix(1 0 0 1 301.1968 243.252)" display="none" font-family="'ArialMT'" font-size="12px">Construction</text>
+			</g>
+		</g>
+		<g>
+			
+				<rect x="290.235" y="245.091" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 587.6678 497.3801)" fill="#199D77" stroke="#FFFFFF" width="7.198" height="7.198"/>
+			<g transform="translate(0,29.907407407407405)">
+				<text transform="matrix(1 0 0 1 301.1968 221.6573)" display="none" font-family="'ArialMT'" font-size="12px">Natural Resources</text>
+			</g>
+		</g>
+		<g>
+			
+				<rect x="290.235" y="274.591" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 587.6678 556.3799)" fill="#BBBDBF" stroke="#FFFFFF" width="7.198" height="7.198"/>
+			<g transform="translate(0,88.5493827160494)">
+				<text transform="matrix(1 0.0036 -0.0036 1 301.2079 192.646)" display="none" font-family="'ArialMT'" font-size="12px">Other/Undisclosed</text>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M487,364.5c-13.904,18.248-71.495,25.825-86.349,27.497"/>
+		<g>
+			<polygon points="397.143,392.367 401.843,389.761 400.911,391.919 402.323,393.798 			"/>
+		</g>
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M476,56.5c-40.75,3.396-75.734,31.297-85.373,39.647"/>
+		<g>
+			<polygon points="388,98.5 390.392,93.688 390.848,95.993 393.077,96.739 			"/>
+		</g>
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M104,61.5c20.101,12.865,45.374,11.507,54.507,10.48"/>
+		<g>
+			<polygon points="162,71.5 157.325,74.15 158.237,71.984 156.807,70.118 			"/>
+		</g>
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M129,248.5c27.911,0,39.287-19.714,42.751-27.7"/>
+		<g>
+			<polygon points="173,217.5 173.06,222.874 171.604,221.028 169.28,221.378 			"/>
+		</g>
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M487,422.5c-18.643,0-35.849,37.34-40.667,48.737"/>
+		<g>
+			<polygon points="445,474.5 445.084,469.127 446.49,471.01 448.822,470.723 			"/>
+		</g>
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M487,250.5c-12.23,0-23.462-24.263-27.194-33.225"/>
+		<g>
+			<polygon points="458.5,214 462.271,217.829 459.942,217.509 458.511,219.374 			"/>
+		</g>
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M119,366.5c14.019,0,76.4,19.192,91.635,23.945"/>
+		<g>
+			<polygon points="214,391.5 208.651,392.012 210.367,390.406 209.823,388.119 			"/>
+		</g>
+	</g>
 </g>
 <style type="text/css">
 #g-mt-economy-3-regional-change-medium-img rect, #g-mt-economy-3-regional-change-medium-img circle, #g-mt-economy-3-regional-change-medium-img path, #g-mt-economy-3-regional-change-medium-img line, #g-mt-economy-3-regional-change-medium-img polyline { vector-effect: non-scaling-stroke; }
