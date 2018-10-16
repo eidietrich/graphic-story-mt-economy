@@ -30,6 +30,7 @@ GRAPHIC-LEVEL TODO
     --> Add size key (no numbers on graph currently)
     --> Are circles and waffles too visually distinct?
     --> Some waffle plots have sizing issues (e.g. Billings)
+    --> Simplify county geometry to cut down on loading size
 - by-region-change
     --> desktop on-hover: Add bar labels and figures
     --> Desktop 'rural Plains' missing 0 line' --> standardize
