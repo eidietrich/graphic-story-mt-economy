@@ -146,7 +146,7 @@
 			<g transform="translate(0,220)">
 				<g transform="translate(0.5,0)">
 					<line fill="none" stroke="#000000" x1="-5" y1="22" x2="-5" y2="28"/>
-					<text transform="matrix(1 0 0 1 -16.123 38.1)" display="none" font-family="'ArialMT'" font-size="10px">2001</text>
+					<text transform="matrix(1 0 0 1 -16.1231 38.1)" display="none" font-family="'ArialMT'" font-size="10px">2001</text>
 				</g>
 				<g transform="translate(50.5,0)">
 					<line fill="none" stroke="#000000" x1="-5" y1="22" x2="-5" y2="28"/>

@@ -35,8 +35,12 @@
 	</main>
 
 	<script src='{{basepath}}assets/scripts/d3.v5.0.0.min.js'></script>
+	<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
 	<script src='assets/scripts/prism.js'></script>
 	<script src='bundle.js?version={{timestamp}}' async></script>
+	<script>
+		var pymChild = new pym.Child();
+	</script>
 	{{!-- <script src='https://pudding.cool/assets/scripts/pudding-footer.js' async></script> --}}
 </body>
 

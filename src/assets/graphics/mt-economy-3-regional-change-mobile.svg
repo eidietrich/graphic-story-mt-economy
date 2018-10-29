@@ -1,542 +1,226 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.2" baseProfile="tiny" id="g-mt-economy-3-regional-change-mobile-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 300 537" xml:space="preserve">
+	 x="0px" y="0px" viewBox="0 0 300 307" xml:space="preserve">
 <g>
+	<path fill="none" stroke="#DDDDDD" d="M69.5,83.5h200v140.687h-200V83.5z"/>
 	<g>
-		<g transform="translate(98.33333333333333,0)">
-			<rect x="-44.167" y="53" fill="none" stroke="#86BF86" width="93.333" height="92.5"/>
+		<g transform="translate(0.5,200.5)">
+			<path fill="none" d="M69,23.687L69,23.687L69,23.687L69,23.687z"/>
 			<g>
-				<g transform="translate(0,58)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-16.667" y1="70.5" x2="41.667" y2="70.5"/>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-16.667" y1="70.5" x2="41.667" y2="70.5"/>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-16.667" y1="70.5" x2="41.667" y2="70.5"/>
-				</g>
-				<g transform="translate(0,0.5)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-16.667" y1="70.5" x2="41.667" y2="70.5"/>
-				</g>
-			</g>
-			<g>
-				<rect x="-15.278" y="66.525" fill="#66A61E" width="6.944" height="61.475"/>
-				<rect x="-8.333" y="113.878" fill="#E7298A" width="6.944" height="14.122"/>
-				<rect x="-1.389" y="121.851" fill="#A6761D" width="6.944" height="6.149"/>
-				<rect x="5.556" y="117.324" fill="#E6AB02" width="6.944" height="10.676"/>
-				<rect x="12.5" y="125.861" fill="#1B9E77" width="6.944" height="2.139"/>
-				<rect x="19.444" y="117.773" fill="#D95F02" width="6.944" height="10.227"/>
-				<rect x="26.389" y="124.167" fill="#7570B3" width="6.944" height="3.833"/>
-				<rect x="33.333" y="125.129" fill="#CCCCCC" width="6.944" height="2.871"/>
-			</g>
-			<g>
-				<line fill="none" stroke="#000000" x1="-16.667" y1="128" x2="41.667" y2="128"/>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 -9.5903 66.5)" display="none" font-family="'Arial-BoldMT'" font-size="12px">Bozeman</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 -6.6216 83.5)" display="none" font-family="'Arial-ItalicMT'" font-size="11px">+29k jobs</text>
-			</g>
-			<g transform="translate(5,0)">
-				<g transform="translate(0,58)">
-					<text transform="matrix(1 0 0 1 -31.2282 73.7)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<text transform="matrix(1 0 0 1 -36.2282 73.7)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<text transform="matrix(1 0 0 1 -41.7897 73.7)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
-				</g>
-				<g transform="translate(0,0.5)">
-					<text transform="matrix(1 0 0 1 -41.7897 73.7)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
-				</g>
-			</g>
-		</g>
-		<g transform="translate(196.66666666666666,0)">
-			<rect x="-44.167" y="53" fill="none" stroke="#86BF86" width="93.333" height="92.5"/>
-			<g>
-				<g transform="translate(0,58)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-16.667" y1="70.5" x2="41.667" y2="70.5"/>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-16.667" y1="70.5" x2="41.667" y2="70.5"/>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-16.667" y1="70.5" x2="41.667" y2="70.5"/>
-				</g>
-				<g transform="translate(0,0.5)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-16.667" y1="70.5" x2="41.667" y2="70.5"/>
-				</g>
-			</g>
-			<g>
-				<rect x="-15.278" y="95.804" fill="#66A61E" width="6.944" height="32.196"/>
-				<rect x="-8.333" y="117.857" fill="#E7298A" width="6.944" height="10.143"/>
-				<rect x="-1.389" y="125.378" fill="#A6761D" width="6.944" height="2.622"/>
-				<rect x="5.556" y="113.081" fill="#E6AB02" width="6.944" height="14.919"/>
-				<rect x="12.5" y="123.097" fill="#1B9E77" width="6.944" height="4.903"/>
-				<rect x="19.444" y="119.394" fill="#D95F02" width="6.944" height="8.606"/>
-				<rect x="26.389" y="126.639" fill="#7570B3" width="6.944" height="1.361"/>
-				<polygon fill="#CCCCCC" points="33.333,128 40.278,128 40.278,128 				"/>
-			</g>
-			<g>
-				<line fill="none" stroke="#000000" x1="-16.667" y1="128" x2="41.667" y2="128"/>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 -9.168 66.5)" display="none" font-family="'Arial-BoldMT'" font-size="12px">Billings</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 -13.3516 83.5)" display="none" font-family="'Arial-ItalicMT'" font-size="11px">+20k jobs</text>
-			</g>
-			<g transform="translate(5,0)">
-				<g transform="translate(0,58)">
-					<text transform="matrix(1 0 0 1 -31.2282 73.7)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<text transform="matrix(1 0 0 1 -36.2282 73.7)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<text transform="matrix(1 0 0 1 -41.7897 73.7)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
-				</g>
-				<g transform="translate(0,0.5)">
-					<text transform="matrix(1 0 0 1 -41.7897 73.7)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
+				<g>
+					<line fill="none" stroke="#DDDDDD" x1="69" y1="23.687" x2="69" y2="-117"/>
+					<line fill="none" stroke="#DDDDDD" x1="98" y1="23.687" x2="98" y2="-117"/>
+					<line fill="none" stroke="#DDDDDD" x1="126" y1="23.687" x2="126" y2="-117"/>
+					<line fill="none" stroke="#DDDDDD" x1="155" y1="23.687" x2="155" y2="-117"/>
+					<line fill="none" stroke="#DDDDDD" x1="183" y1="23.687" x2="183" y2="-117"/>
+					<line fill="none" stroke="#DDDDDD" x1="212" y1="23.687" x2="212" y2="-117"/>
+					<line fill="none" stroke="#DDDDDD" x1="240" y1="23.687" x2="240" y2="-117"/>
+					<line fill="none" stroke="#DDDDDD" x1="269" y1="23.687" x2="269" y2="-117"/>
 				</g>
 			</g>
 		</g>
 	</g>
 	<g>
-		<g transform="translate(0,97.5)">
-			<rect x="5" y="53" fill="none" stroke="#86BF86" width="93.333" height="92.5"/>
+		<path fill="#66A61E" d="M98.571,195.106h19.463v13.269H98.571V195.106z"/>
+		<path fill="#E7298A" d="M118.034,195.106h6.857v13.269h-6.857V195.106z"/>
+		<path fill="#A6761D" d="M124.891,195.106h0.537v13.269h-0.537V195.106z"/>
+		<path fill="#E6AB02" d="M125.429,195.106h12.177v13.269h-12.177V195.106z"/>
+		<path fill="#1B9E77" d="M97.72,195.106h0.851v13.269H97.72V195.106z"/>
+		<path fill="#D95F02" d="M96.131,195.106h1.589v13.269h-1.589V195.106z"/>
+		<path fill="#7570B3" d="M90.051,195.106h6.08v13.269h-6.08V195.106z"/>
+		<path fill="#CCCCCC" d="M137.606,195.106h9.263v13.269h-9.263V195.106z"/>
+		<path fill="#66A61E" d="M98.571,209.849h13.823v13.269H98.571V209.849z"/>
+		<path fill="#E7298A" d="M112.394,209.849h10.726v13.269h-10.726V209.849z"/>
+		<path fill="#A6761D" d="M89.457,209.849h9.114v13.269h-9.114V209.849z"/>
+		<path fill="#E6AB02" d="M85.086,209.849h4.371v13.269h-4.371V209.849z"/>
+		<path fill="#1B9E77" d="M123.12,209.849h3.977v13.269h-3.977V209.849z"/>
+		<path fill="#D95F02" d="M127.097,209.849h2.343v13.269h-2.343V209.849z"/>
+		<path fill="#7570B3" d="M83.903,209.849h1.183v13.269h-1.183V209.849z"/>
+		<path fill="#CCCCCC" d="M129.44,209.849h30.406v13.269H129.44V209.849z"/>
+		<path fill="#66A61E" d="M98.571,161.62h6.691v13.269h-6.691V161.62z"/>
+		<path fill="#E7298A" d="M95.903,161.62h2.669v13.269h-2.669V161.62z"/>
+		<path fill="#A6761D" d="M95.189,161.62h0.714v13.269h-0.714V161.62z"/>
+		<path fill="#E6AB02" d="M105.263,161.62h7.834v13.269h-7.834V161.62z"/>
+		<path fill="#1B9E77" d="M113.097,161.62h1.954v13.269h-1.954V161.62z"/>
+		<path fill="#D95F02" d="M115.051,161.62h1.446v13.269h-1.446V161.62z"/>
+		<path fill="#7570B3" d="M116.497,161.62h1.32v13.269h-1.32V161.62z"/>
+		<path fill="#CCCCCC" d="M93.611,161.62h1.577v13.269h-1.577V161.62z"/>
+		<path fill="#66A61E" d="M98.571,176.363h5.263v13.269h-5.263V176.363z"/>
+		<path fill="#E7298A" d="M94.52,176.363h4.051v13.269H94.52V176.363z"/>
+		<path fill="#A6761D" d="M94.211,176.363h0.309v13.269h-0.309V176.363z"/>
+		<path fill="#E6AB02" d="M103.834,176.363h8.206v13.269h-8.206V176.363z"/>
+		<path fill="#1B9E77" d="M112.04,176.363h2.874v13.269h-2.874V176.363z"/>
+		<path fill="#D95F02" d="M114.914,176.363h0.469v13.269h-0.469V176.363z"/>
+		<path fill="#7570B3" d="M115.383,176.363h1.057v13.269h-1.057V176.363z"/>
+		<path fill="#CCCCCC" d="M116.44,176.363h3.806v13.269h-3.806V176.363z"/>
+		<path fill="#66A61E" d="M98.571,128.134h46.411v13.269H98.571V128.134z"/>
+		<path fill="#E7298A" d="M144.983,128.134h3.474v13.269h-3.474V128.134z"/>
+		<path fill="#A6761D" d="M148.457,128.134h4.217v13.269h-4.217V128.134z"/>
+		<path fill="#E6AB02" d="M152.674,128.134h18.869v13.269h-18.869V128.134z"/>
+		<path fill="#1B9E77" d="M98.286,128.134h0.286v13.269h-0.286V128.134z"/>
+		<path fill="#D95F02" d="M171.543,128.134h3.194v13.269h-3.194V128.134z"/>
+		<path fill="#7570B3" d="M93.783,128.134h4.503v13.269h-4.503V128.134z"/>
+		<path fill="#CCCCCC" d="M174.737,128.134h9.749v13.269h-9.749V128.134z"/>
+		<path fill="#66A61E" d="M98.571,83.905h91.64v13.269h-91.64V83.905z"/>
+		<path fill="#E7298A" d="M190.211,83.905h21.051v13.269h-21.051V83.905z"/>
+		<path fill="#A6761D" d="M211.263,83.905h9.166v13.269h-9.166V83.905z"/>
+		<path fill="#E6AB02" d="M220.429,83.905h15.914v13.269h-15.914V83.905z"/>
+		<path fill="#1B9E77" d="M236.343,83.905h3.189v13.269h-3.189V83.905z"/>
+		<path fill="#D95F02" d="M239.531,83.905h15.246v13.269h-15.246V83.905z"/>
+		<path fill="#7570B3" d="M254.777,83.905h5.714v13.269h-5.714V83.905z"/>
+		<path fill="#CCCCCC" d="M260.491,83.905h4.28v13.269h-4.28V83.905z"/>
+		<path fill="#66A61E" d="M98.571,142.877h24v13.269h-24V142.877z"/>
+		<path fill="#E7298A" d="M122.571,142.877h4.811v13.269h-4.811V142.877z"/>
+		<path fill="#A6761D" d="M127.383,142.877h11.126v13.269h-11.126V142.877z"/>
+		<path fill="#E6AB02" d="M138.509,142.877h9.137v13.269h-9.137V142.877z"/>
+		<path fill="#1B9E77" d="M147.646,142.877h2.577v13.269h-2.577V142.877z"/>
+		<path fill="#D95F02" d="M150.223,142.877h0.771v13.269h-0.771V142.877z"/>
+		<path fill="#7570B3" d="M150.994,142.877h0.629v13.269h-0.629V142.877z"/>
+		<path fill="#CCCCCC" d="M151.623,142.877L151.623,142.877v13.269l0,0V142.877z"/>
+		<path fill="#66A61E" d="M98.571,113.391h69.76v13.269h-69.76V113.391z"/>
+		<path fill="#E7298A" d="M168.331,113.391h2.417v13.269h-2.417V113.391z"/>
+		<path fill="#A6761D" d="M170.749,113.391h8.966v13.269h-8.966V113.391z"/>
+		<path fill="#E6AB02" d="M179.714,113.391h18.154v13.269h-18.154V113.391z"/>
+		<path fill="#1B9E77" d="M197.869,113.391h2.451v13.269h-2.451V113.391z"/>
+		<path fill="#D95F02" d="M97.731,113.391h0.84v13.269h-0.84V113.391z"/>
+		<path fill="#7570B3" d="M93.04,113.391h4.691v13.269H93.04V113.391z"/>
+		<path fill="#CCCCCC" d="M92.869,113.391h0.171v13.269h-0.171V113.391z"/>
+		<path fill="#66A61E" d="M98.571,98.648h47.994v13.269H98.571V98.648z"/>
+		<path fill="#E7298A" d="M146.566,98.648h15.12v13.269h-15.12V98.648z"/>
+		<path fill="#A6761D" d="M161.686,98.648h3.909v13.269h-3.909V98.648z"/>
+		<path fill="#E6AB02" d="M165.594,98.648h22.24v13.269h-22.24V98.648z"/>
+		<path fill="#1B9E77" d="M187.834,98.648h7.309v13.269h-7.309V98.648z"/>
+		<path fill="#D95F02" d="M195.143,98.648h12.829v13.269h-12.829L195.143,98.648z"/>
+		<path fill="#7570B3" d="M207.971,98.648H210v13.269h-2.029V98.648z"/>
+		<path fill="#CCCCCC" d="M210,98.648L210,98.648v13.269l0,0V98.648z"/>
+	</g>
+	<g>
+		<g transform="translate(0.5,200.5)">
+			<path fill="none" d="M69,23.687L69,23.687L69,23.687L69,23.687z"/>
 			<g>
-				<g transform="translate(0,58)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="32.5" y1="70.5" x2="90.833" y2="70.5"/>
+				<g>
+					<line fill="none" stroke="#888888" x1="69" y1="23.687" x2="69" y2="27.004"/>
+					<line fill="none" stroke="#888888" x1="98" y1="23.687" x2="98" y2="27.004"/>
+					<line fill="none" stroke="#888888" x1="126" y1="23.687" x2="126" y2="27.004"/>
+					<line fill="none" stroke="#888888" x1="155" y1="23.687" x2="155" y2="27.004"/>
+					<line fill="none" stroke="#888888" x1="183" y1="23.687" x2="183" y2="27.004"/>
+					<line fill="none" stroke="#888888" x1="212" y1="23.687" x2="212" y2="27.004"/>
+					<line fill="none" stroke="#888888" x1="240" y1="23.687" x2="240" y2="27.004"/>
+					<line fill="none" stroke="#888888" x1="269" y1="23.687" x2="269" y2="27.004"/>
 				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="32.5" y1="70.5" x2="90.833" y2="70.5"/>
+				<g>
+					<text transform="matrix(1 0 0 1 61.0542 38.6387)" display="none" font-family="'ArialMT'" font-size="10px">-5k</text>
+					<text transform="matrix(1 0 0 1 94.2192 38.6387)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
+					<text transform="matrix(1 0 0 1 118.4302 38.6387)" display="none" font-family="'ArialMT'" font-size="10px">+5k</text>
+					
+						
+					<text transform="matrix(1 0 0 1 170.0112 38.6387)" display="none" font-family="'ArialMT'" font-size="10px">+15k</text>
+					
+						
+					<text transform="matrix(1 0 0 1 247.5928 38.6387)" display="none" font-family="'ArialMT'" font-size="10px">+30k jobs</text>
 				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="32.5" y1="70.5" x2="90.833" y2="70.5"/>
+				<g>
+					<line fill="none" stroke="#888888" x1="69" y1="23.687" x2="269" y2="23.687"/>
 				</g>
-				<g transform="translate(0,0.5)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="32.5" y1="70.5" x2="90.833" y2="70.5"/>
-				</g>
-			</g>
-			<g>
-				<rect x="33.889" y="81.203" fill="#66A61E" width="6.944" height="46.797"/>
-				<rect x="40.833" y="126.379" fill="#E7298A" width="6.944" height="1.621"/>
-				<rect x="47.778" y="121.986" fill="#A6761D" width="6.944" height="6.014"/>
-				<rect x="54.722" y="115.822" fill="#E6AB02" width="6.944" height="12.179"/>
-				<rect x="61.667" y="126.355" fill="#1B9E77" width="6.944" height="1.645"/>
-				<rect x="68.611" y="128" fill="#D95F02" width="6.944" height="0.563"/>
-				<rect x="75.556" y="128" fill="#7570B3" width="6.944" height="3.147"/>
-				<rect x="82.5" y="128" fill="#CCCCCC" width="6.944" height="0.115"/>
-			</g>
-			<g>
-				<line fill="none" stroke="#000000" x1="32.5" y1="128" x2="90.833" y2="128"/>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 36.321 66.5)" display="none" font-family="'Arial-BoldMT'" font-size="12px">Missoula</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 38.1178 83.5)" display="none" font-family="'Arial-ItalicMT'" font-size="11px">+17k jobs</text>
-			</g>
-			<g transform="translate(5,0)">
-				<g transform="translate(0,58)">
-					<text transform="matrix(1 0 0 1 17.9385 73.7)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<text transform="matrix(1 0 0 1 12.9385 73.7)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<text transform="matrix(1 0 0 1 7.3769 73.7)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
-				</g>
-				<g transform="translate(0,0.5)">
-					<text transform="matrix(1 0 0 1 7.3769 73.7)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
-				</g>
-			</g>
-		</g>
-		<g transform="translate(98.33333333333333,97.5)">
-			<rect x="5" y="53" fill="none" stroke="#86BF86" width="93.333" height="92.5"/>
-			<g>
-				<g transform="translate(0,58)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="32.5" y1="70.5" x2="90.833" y2="70.5"/>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="32.5" y1="70.5" x2="90.833" y2="70.5"/>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="32.5" y1="70.5" x2="90.833" y2="70.5"/>
-				</g>
-				<g transform="translate(0,0.5)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="32.5" y1="70.5" x2="90.833" y2="70.5"/>
-				</g>
-			</g>
-			<g>
-				<rect x="33.889" y="96.866" fill="#66A61E" width="6.944" height="31.134"/>
-				<rect x="40.833" y="125.669" fill="#E7298A" width="6.944" height="2.331"/>
-				<rect x="47.778" y="125.171" fill="#A6761D" width="6.944" height="2.829"/>
-				<rect x="54.722" y="115.342" fill="#E6AB02" width="6.944" height="12.658"/>
-				<rect x="61.667" y="128" fill="#1B9E77" width="6.944" height="0.192"/>
-				<rect x="68.611" y="125.857" fill="#D95F02" width="6.944" height="2.143"/>
-				<rect x="75.556" y="128" fill="#7570B3" width="6.944" height="3.021"/>
-				<rect x="82.5" y="121.46" fill="#CCCCCC" width="6.944" height="6.54"/>
-			</g>
-			<g>
-				<line fill="none" stroke="#000000" x1="32.5" y1="128" x2="90.833" y2="128"/>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 38.3131 66.5)" display="none" font-family="'Arial-BoldMT'" font-size="12px">Kalispell</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 38.1178 83.5)" display="none" font-family="'Arial-ItalicMT'" font-size="11px">+14k jobs</text>
-			</g>
-			<g transform="translate(5,0)">
-				<g transform="translate(0,58)">
-					<text transform="matrix(1 0 0 1 17.9385 73.7)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<text transform="matrix(1 0 0 1 12.9385 73.7)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<text transform="matrix(1 0 0 1 7.3769 73.7)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
-				</g>
-				<g transform="translate(0,0.5)">
-					<text transform="matrix(1 0 0 1 7.3769 73.7)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
-				</g>
-			</g>
-		</g>
-		<g transform="translate(196.66666666666666,97.5)">
-			<rect x="5" y="53" fill="none" stroke="#86BF86" width="93.333" height="92.5"/>
-			<g>
-				<g transform="translate(0,58)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="32.5" y1="70.5" x2="90.833" y2="70.5"/>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="32.5" y1="70.5" x2="90.833" y2="70.5"/>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="32.5" y1="70.5" x2="90.833" y2="70.5"/>
-				</g>
-				<g transform="translate(0,0.5)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="32.5" y1="70.5" x2="90.833" y2="70.5"/>
-				</g>
-			</g>
-			<g>
-				<rect x="33.889" y="111.9" fill="#66A61E" width="6.944" height="16.1"/>
-				<rect x="40.833" y="124.772" fill="#E7298A" width="6.944" height="3.228"/>
-				<rect x="47.778" y="120.536" fill="#A6761D" width="6.944" height="7.464"/>
-				<rect x="54.722" y="121.87" fill="#E6AB02" width="6.944" height="6.13"/>
-				<rect x="61.667" y="126.271" fill="#1B9E77" width="6.944" height="1.729"/>
-				<rect x="68.611" y="127.482" fill="#D95F02" width="6.944" height="0.518"/>
-				<rect x="75.556" y="127.578" fill="#7570B3" width="6.944" height="0.422"/>
-				<polygon fill="#CCCCCC" points="82.5,128 89.444,128 89.444,128 				"/>
-			</g>
-			<g>
-				<line fill="none" stroke="#000000" x1="32.5" y1="128" x2="90.833" y2="128"/>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 44.3151 66.5)" display="none" font-family="'Arial-BoldMT'" font-size="12px">Helena</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 34.9225 83.5)" display="none" font-family="'Arial-ItalicMT'" font-size="11px">+9.3k jobs</text>
-			</g>
-			<g transform="translate(5,0)">
-				<g transform="translate(0,58)">
-					<text transform="matrix(1 0 0 1 17.9385 73.7)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<text transform="matrix(1 0 0 1 12.9385 73.7)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<text transform="matrix(1 0 0 1 7.377 73.7)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
-				</g>
-				<g transform="translate(0,0.5)">
-					<text transform="matrix(1 0 0 1 7.377 73.7)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
+				<g>
+					<text transform="matrix(1 0 0 1 64.6826 56.2529)" display="none" font-family="'Arial-BoldMT'" font-size="12px">Net sector job growth, ‚Äò01 to ‚Äò16</text>
 				</g>
 			</g>
 		</g>
 	</g>
 	<g>
-		<g transform="translate(98.33333333333333,195)">
-			<rect x="-46.167" y="130" fill="none" stroke="#86BF86" width="93.333" height="92.5"/>
+		<g transform="translate(0.5,0.5)">
+			<path fill="none" d="M69,83L69,83L69,83L69,83z"/>
 			<g>
-				<g transform="translate(0,58)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
+				<g>
+					<line fill="none" stroke="#888888" x1="69" y1="89.634" x2="64" y2="89.634"/>
+					<line fill="none" stroke="#888888" x1="69" y1="104.23" x2="64" y2="104.23"/>
+					<line fill="none" stroke="#888888" x1="69" y1="119.489" x2="64" y2="119.489"/>
+					<line fill="none" stroke="#888888" x1="69" y1="134.084" x2="64" y2="134.084"/>
+					<line fill="none" stroke="#888888" x1="69" y1="148.68" x2="64" y2="148.68"/>
+					<line fill="none" stroke="#888888" x1="69" y1="167.275" x2="64" y2="167.275"/>
+					<line fill="none" stroke="#888888" x1="69" y1="181.871" x2="64" y2="181.871"/>
+					<line fill="none" stroke="#888888" x1="69" y1="201.13" x2="64" y2="201.13"/>
+					<line fill="none" stroke="#888888" x1="69" y1="215.725" x2="64" y2="215.725"/>
 				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-				<g transform="translate(0,0.5)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-			</g>
-			<g>
-				<rect x="-17.278" y="200.511" fill="#66A61E" width="6.944" height="4.489"/>
-				<rect x="-10.333" y="205" fill="#E7298A" width="6.944" height="1.79"/>
-				<rect x="-3.389" y="205" fill="#A6761D" width="6.944" height="0.479"/>
-				<rect x="3.556" y="199.745" fill="#E6AB02" width="6.944" height="5.256"/>
-				<rect x="10.5" y="203.689" fill="#1B9E77" width="6.944" height="1.311"/>
-				<rect x="17.444" y="204.03" fill="#D95F02" width="6.944" height="0.97"/>
-				<rect x="24.389" y="204.115" fill="#7570B3" width="6.944" height="0.886"/>
-				<rect x="31.333" y="205" fill="#CCCCCC" width="6.944" height="1.058"/>
-			</g>
-			<g>
-				<line fill="none" stroke="#000000" x1="-18.667" y1="205" x2="39.667" y2="205"/>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 -20.3472 142.5)" display="none" font-family="'Arial-BoldMT'" font-size="12px">Great Falls</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 -14.7349 159.5)" display="none" font-family="'Arial-ItalicMT'" font-size="11px">+2.5k jobs</text>
-			</g>
-			<g transform="translate(5,0)">
-				<g transform="translate(0,58)">
-					<text transform="matrix(1 0 0 1 -33.2282 150.7)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<text transform="matrix(1 0 0 1 -38.2282 150.7)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<text transform="matrix(1 0 0 1 -43.7897 150.7)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
-				</g>
-				<g transform="translate(0,0.5)">
-					<text transform="matrix(1 0 0 1 -43.7897 150.7)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
-				</g>
-			</g>
-		</g>
-		<g transform="translate(196.66666666666666,195)">
-			<rect x="-46.167" y="130" fill="none" stroke="#86BF86" width="93.333" height="92.5"/>
-			<g>
-				<g transform="translate(0,58)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-				<g transform="translate(0,0.5)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-			</g>
-			<g>
-				<rect x="-17.278" y="201.469" fill="#66A61E" width="6.944" height="3.53"/>
-				<rect x="-10.333" y="205" fill="#E7298A" width="6.944" height="2.718"/>
-				<rect x="-3.389" y="205" fill="#A6761D" width="6.944" height="0.207"/>
-				<rect x="3.556" y="199.495" fill="#E6AB02" width="6.944" height="5.505"/>
-				<rect x="10.5" y="203.072" fill="#1B9E77" width="6.944" height="1.928"/>
-				<rect x="17.444" y="204.686" fill="#D95F02" width="6.944" height="0.314"/>
-				<rect x="24.389" y="204.291" fill="#7570B3" width="6.944" height="0.709"/>
-				<rect x="31.333" y="202.447" fill="#CCCCCC" width="6.944" height="2.553"/>
-			</g>
-			<g>
-				<line fill="none" stroke="#000000" x1="-18.667" y1="205" x2="39.667" y2="205"/>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 -7.8311 142.5)" display="none" font-family="'Arial-BoldMT'" font-size="12px">Butte</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 -17.0186 159.5)" display="none" font-family="'Arial-ItalicMT'" font-size="11px">+3.0k jobs</text>
-			</g>
-			<g transform="translate(5,0)">
-				<g transform="translate(0,58)">
-					<text transform="matrix(1 0 0 1 -33.2282 150.7)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<text transform="matrix(1 0 0 1 -38.2282 150.7)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<text transform="matrix(1 0 0 1 -43.7897 150.7)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
-				</g>
-				<g transform="translate(0,0.5)">
-					<text transform="matrix(1 0 0 1 -43.7897 150.7)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
-				</g>
-			</g>
-		</g>
-		<g transform="translate(98.33333333333333,292.5)">
-			<rect x="-46.167" y="130" fill="none" stroke="#E5AE89" width="93.333" height="92.5"/>
-			<g>
-				<g transform="translate(0,58)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-				<g transform="translate(0,0.5)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-			</g>
-			<g>
-				<rect x="-17.278" y="191.944" fill="#66A61E" width="6.944" height="13.056"/>
-				<rect x="-10.333" y="200.4" fill="#E7298A" width="6.944" height="4.6"/>
-				<rect x="-3.389" y="204.64" fill="#A6761D" width="6.944" height="0.36"/>
-				<rect x="3.556" y="196.831" fill="#E6AB02" width="6.944" height="8.169"/>
-				<rect x="10.5" y="205" fill="#1B9E77" width="6.944" height="0.571"/>
-				<rect x="17.444" y="205" fill="#D95F02" width="6.944" height="1.066"/>
-				<rect x="24.389" y="205" fill="#7570B3" width="6.944" height="4.079"/>
-				<rect x="31.333" y="198.786" fill="#CCCCCC" width="6.944" height="6.214"/>
-			</g>
-			<g>
-				<line fill="none" stroke="#000000" x1="-18.667" y1="205" x2="39.667" y2="205"/>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 -19.3306 142.5)" display="none" font-family="'Arial-BoldMT'" font-size="12px">Mountains</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 -14.7349 159.5)" display="none" font-family="'Arial-ItalicMT'" font-size="11px">+7.0k jobs</text>
-			</g>
-			<g transform="translate(5,0)">
-				<g transform="translate(0,58)">
-					<text transform="matrix(1 0 0 1 -33.2282 150.7)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<text transform="matrix(1 0 0 1 -38.2282 150.7)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<text transform="matrix(1 0 0 1 -43.7897 150.7)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
-				</g>
-				<g transform="translate(0,0.5)">
-					<text transform="matrix(1 0 0 1 -43.7897 150.7)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
-				</g>
-			</g>
-		</g>
-		<g transform="translate(196.66666666666666,292.5)">
-			<rect x="-46.167" y="130" fill="none" stroke="#F2DF91" width="93.333" height="92.5"/>
-			<g>
-				<g transform="translate(0,58)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-				<g transform="translate(0,0.5)">
-					<line fill="none" stroke="#BBBBBB" stroke-dasharray="2" x1="-18.667" y1="147.5" x2="39.667" y2="147.5"/>
-				</g>
-			</g>
-			<g>
-				<rect x="-17.278" y="195.727" fill="#66A61E" width="6.944" height="9.273"/>
-				<rect x="-10.333" y="197.805" fill="#E7298A" width="6.944" height="7.195"/>
-				<rect x="-3.389" y="205" fill="#A6761D" width="6.944" height="6.114"/>
-				<rect x="3.556" y="205" fill="#E6AB02" width="6.944" height="2.932"/>
-				<rect x="10.5" y="202.332" fill="#1B9E77" width="6.944" height="2.668"/>
-				<rect x="17.444" y="203.428" fill="#D95F02" width="6.944" height="1.572"/>
-				<rect x="24.389" y="205" fill="#7570B3" width="6.944" height="0.793"/>
-				<rect x="31.333" y="184.603" fill="#CCCCCC" width="6.944" height="20.397"/>
-			</g>
-			<g>
-				<line fill="none" stroke="#000000" x1="-18.667" y1="205" x2="39.667" y2="205"/>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 -7.1748 142.5)" display="none" font-family="'Arial-BoldMT'" font-size="12px">Plains</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 -17.0186 159.5)" display="none" font-family="'Arial-ItalicMT'" font-size="11px">+8.2k jobs</text>
-			</g>
-			<g transform="translate(5,0)">
-				<g transform="translate(0,58)">
-					<text transform="matrix(1 0 0 1 -33.2282 150.7)" display="none" font-family="'ArialMT'" font-size="10px">0</text>
-				</g>
-				<g transform="translate(0,38.833333333333336)">
-					<text transform="matrix(1 0 0 1 -38.2282 150.7)" display="none" font-family="'ArialMT'" font-size="10px">5k</text>
-				</g>
-				<g transform="translate(0,19.66666666666667)">
-					<text transform="matrix(1 0 0 1 -43.7897 150.7)" display="none" font-family="'ArialMT'" font-size="10px">10k</text>
-				</g>
-				<g transform="translate(0,0.5)">
-					<text transform="matrix(1 0 0 1 -43.7897 150.7)" display="none" font-family="'ArialMT'" font-size="10px">15k</text>
+				<g>
+					<line fill="none" stroke="#888888" x1="69" y1="83" x2="69" y2="223.687"/>
 				</g>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			
-				<rect x="60.99" y="281.445" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 129.179 570.0883)" fill="#E4AB23" stroke="#FFFFFF" width="7.198" height="7.198"/>
-			<g transform="translate(0,41.635802469135804)">
-				<text transform="matrix(1 0 0 1 72.5686 246.5275)" display="none" font-family="'ArialMT'" font-size="10px">Healthcare</text>
+			<path fill="#D95F02" d="M12.5,38.286h10v10h-10"/>
+			<g>
+				<text transform="matrix(1 0 0 1 27.5 46.2857)" display="none" font-family="'ArialMT'" font-size="10px">Construction</text>
 			</g>
 		</g>
 		<g>
-			
-				<rect x="60.99" y="271.615" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 129.179 550.4287)" fill="#A4772B" stroke="#FFFFFF" width="7.198" height="7.198"/>
-			<g transform="translate(0,53.364197530864196)">
-				<text transform="matrix(1 0 0 1 72.5686 224.9328)" display="none" font-family="'ArialMT'" font-size="10px">Government</text>
+			<path fill="#7570B3" d="M12.5,24.143h10v10h-10"/>
+			<g>
+				<text transform="matrix(1 0 0 1 27.5 32.1429)" display="none" font-family="'ArialMT'" font-size="10px">Manufacturing</text>
 			</g>
 		</g>
 		<g>
-			
-				<rect x="60.99" y="261.786" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 129.179 530.7692)" fill="#E52A89" stroke="#FFFFFF" width="7.198" height="7.198"/>
-			<g transform="translate(0,65.09259259259258)">
+			<path fill="#66A61E" d="M12.5,10h10v10h-10"/>
+			<g>
+				<text transform="matrix(1 0 0 1 27.5 18)" display="none" font-family="'ArialMT'" font-size="10px">Services</text>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#1B9E77" d="M99,10h10v10H99"/>
+			<g>
+				<text transform="matrix(1 0 0 1 114 17.9999)" display="none" font-family="'ArialMT'" font-size="10px">Natural Resources</text>
+			</g>
+		</g>
+		<g>
+			<path fill="#E6AB02" d="M99,24.143h10v10H99"/>
+			<g>
+				<text transform="matrix(1 0 0 1 114 32.1427)" display="none" font-family="'ArialMT'" font-size="10px">Healthcare</text>
+			</g>
+		</g>
+		<g>
+			<path fill="#A6761D" d="M99,38.286h10v10H99"/>
+			<g>
+				<text transform="matrix(1 0 0 1 114 46.2856)" display="none" font-family="'ArialMT'" font-size="10px">Government</text>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#E7298A" d="M203.5,10h10v10h-10"/>
+			<g>
 				<g display="none">
-					<text transform="matrix(1 0 0 1 72.5686 203.3381)" display="inline" font-family="'ArialMT'" font-size="10px">T</text>
-					<text transform="matrix(1 0 0 1 78.3059 203.3381)" display="inline" font-family="'ArialMT'" font-size="10px">r</text>
-					<text transform="matrix(1 0 0 1 81.636 203.3381)" display="inline" font-family="'ArialMT'" font-size="10px">a</text>
-					<text transform="matrix(1 0 0 1 87.1975 203.3381)" display="inline" font-family="'ArialMT'" font-size="10px">d</text>
-					<text transform="matrix(1 0 0 1 92.759 203.3381)" display="inline" font-family="'ArialMT'" font-size="10px">e</text>
+					<text transform="matrix(1 0 0 1 218.5 17.9997)" display="inline" font-family="'ArialMT'" font-size="10px">T</text>
+					<text transform="matrix(1 0 0 1 224.2373 17.9997)" display="inline" font-family="'ArialMT'" font-size="10px">r</text>
+					<text transform="matrix(1 0 0 1 227.5674 17.9997)" display="inline" font-family="'ArialMT'" font-size="10px">a</text>
+					<text transform="matrix(1 0 0 1 233.1289 17.9997)" display="inline" font-family="'ArialMT'" font-size="10px">d</text>
+					<text transform="matrix(1 0 0 1 238.6904 17.9997)" display="inline" font-family="'ArialMT'" font-size="10px">e</text>
 				</g>
 			</g>
 		</g>
 		<g>
-			
-				<rect x="60.99" y="251.956" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 129.179 511.1096)" fill="#65A644" stroke="#FFFFFF" width="7.198" height="7.198"/>
-			<g transform="translate(0,76.82098765432099)">
-				<text transform="matrix(1 0 0 1 72.5686 181.7435)" display="none" font-family="'ArialMT'" font-size="10px">Services</text>
-			</g>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 156.1965 278.2973)" display="none" font-family="'ArialMT'" font-size="10px">Manufacturing</text>
-			
-				<rect x="145.235" y="271.469" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 297.6673 550.1353)" fill="#7670B2" stroke="#FFFFFF" width="7.198" height="7.198"/>
-		</g>
-		<g>
-			
-				<rect x="145.235" y="261.639" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 297.6673 530.4757)" fill="#D66127" stroke="#FFFFFF" width="7.198" height="7.198"/>
-			<g transform="translate(0,18.17901234567901)">
-				<text transform="matrix(1 0 0 1 156.1965 250.252)" display="none" font-family="'ArialMT'" font-size="10px">Construction</text>
-			</g>
-		</g>
-		<g>
-			
-				<rect x="145.235" y="252.091" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 297.6673 511.3801)" fill="#199D77" stroke="#FFFFFF" width="7.198" height="7.198"/>
-			<g transform="translate(0,29.907407407407405)">
-				<text transform="matrix(1 0 0 1 156.1965 228.6573)" display="none" font-family="'ArialMT'" font-size="10px">Natural Resources</text>
-			</g>
-		</g>
-		<g>
-			
-				<rect x="145.235" y="281.591" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 297.6673 570.3799)" fill="#BBBDBF" stroke="#FFFFFF" width="7.198" height="7.198"/>
-			<g transform="translate(0,88.5493827160494)">
-				<text transform="matrix(1 0.0036 -0.0036 1 156.2077 199.646)" display="none" font-family="'ArialMT'" font-size="10px">Other/Undisclosed</text>
+			<path fill="#CCCCCC" d="M203.5,24.143h10v10h-10"/>
+			<g>
+				<text transform="matrix(1 0 0 1 218.5 32.1426)" display="none" font-family="'ArialMT'" font-size="10px">Uncategorized</text>
 			</g>
 		</g>
 	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="98.5" y1="224.187" x2="98.5" y2="83.5"/>
 	<g>
-		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M231.821,472.988c0.978-9.266,4.468-33.941,14.179-37.988"/>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M178.5,178.5c-13.121,0.398-14.86-20.073-15.021-28.474"/>
 		<g>
-			<polygon points="231.5,476.5 234.018,471.752 231.878,472.725 229.973,471.348 			"/>
+			<polygon points="163.5,146.5 165.556,151.465 163.518,150.294 161.491,151.484 			"/>
 		</g>
 	</g>
 	<g>
-		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M246,360c-19.537,0-34.436,22.531-39.301,30.91"/>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M150,63c-20.296,0-23.779,9.983-24.159,15.476"/>
 		<g>
-			<polygon points="205,394 205.668,388.668 206.86,390.693 209.21,390.661 			"/>
-		</g>
-	</g>
-	<g>
-		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M48,385c16.813,0,40.036,6.41,48.628,8.966"/>
-		<g>
-			<polygon points="100,395 94.65,395.507 96.368,393.903 95.826,391.616 			"/>
+			<polygon points="126,82 123.83,77.084 125.894,78.207 127.893,76.971 			"/>
 		</g>
 	</g>
 </g>

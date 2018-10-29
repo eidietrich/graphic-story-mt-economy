@@ -1,210 +1,267 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.2" baseProfile="tiny" id="g-mt-economy-4-sector-change-mobile-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 300 264" xml:space="preserve">
+	 x="0px" y="0px" viewBox="0 0 300 340" xml:space="preserve">
 <g>
-	<rect x="127.5" y="166.5" fill="#EDDC22" fill-opacity="0.2" width="156" height="75"/>
-	<rect x="53.5" y="36.5" fill="#EDDC22" fill-opacity="0.2" width="74" height="130"/>
+	<rect x="127.5" y="210.5" fill="#EDDC22" fill-opacity="0.2" width="156" height="75"/>
+	<rect x="53.5" y="80.5" fill="#EDDC22" fill-opacity="0.2" width="74" height="130"/>
 	<g transform="translate(60,40)">
 		<g transform="translate(0,0)">
 			<g transform="translate(0,207.16666666666663)">
-				<line fill="none" stroke="#000000" x1="-6.514" y1="-29.25" x2="-11.013" y2="-29.25"/>
-				<line fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="-29.25" x2="223.443" y2="-29.25"/>
+				<line fill="none" stroke="#000000" x1="-6.514" y1="14.75" x2="-11.013" y2="14.75"/>
+				<line display="none" fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="14.75" x2="223.443" y2="14.75"/>
 			</g>
 			<g transform="translate(0,207.16666666666663)">
-				<line fill="none" stroke="#000000" x1="-6.514" y1="-6.25" x2="-11.013" y2="-6.25"/>
-				<line fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="-6.25" x2="223.443" y2="-6.25"/>
-				<text transform="matrix(1 0 0 1 -31.4438 -3.8503)" display="none" font-family="'ArialMT'" font-size="8px">-40%</text>
+				<line fill="none" stroke="#000000" x1="-6.514" y1="37.75" x2="-11.013" y2="37.75"/>
+				<line display="none" fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="37.75" x2="223.443" y2="37.75"/>
+				<text transform="matrix(1 0 0 1 -31.4438 40.1497)" display="none" font-family="'ArialMT'" font-size="8px">-40%</text>
 			</g>
 			<g transform="translate(0,172.72222222222217)">
-				<line fill="none" stroke="#000000" x1="-6.514" y1="-20.634" x2="-11.013" y2="-20.634"/>
-				<line fill="none" stroke="#000000" stroke-opacity="0.3" x1="-6.514" y1="-20.634" x2="223.443" y2="-20.634"/>
-				<text transform="matrix(1 0 0 1 -22.042 -18.2349)" display="none" font-family="'ArialMT'" font-size="8px">0%</text>
+				<line fill="none" stroke="#000000" x1="-6.514" y1="23.366" x2="-11.013" y2="23.366"/>
+				<line fill="none" stroke="#000000" x1="-6.514" y1="23.366" x2="223.443" y2="23.366"/>
+				<text transform="matrix(1 0 0 1 -22.042 25.7651)" display="none" font-family="'ArialMT'" font-size="8px">0%</text>
 			</g>
 			<g transform="translate(0,138.27777777777774)">
-				<line fill="none" stroke="#000000" x1="-6.514" y1="-12.018" x2="-11.013" y2="-12.018"/>
-				<line fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="-12.018" x2="223.443" y2="-12.018"/>
+				<line fill="none" stroke="#000000" x1="-6.514" y1="31.982" x2="-11.013" y2="31.982"/>
+				<line display="none" fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="31.982" x2="223.443" y2="31.982"/>
 			</g>
 			<g transform="translate(0,103.83333333333329)">
-				<line fill="none" stroke="#000000" x1="-6.514" y1="-3.403" x2="-11.013" y2="-3.403"/>
-				<line fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="-3.403" x2="223.443" y2="-3.403"/>
-				<text transform="matrix(1 0 0 1 -42.5044 -1.0033)" display="none" font-family="'ArialMT'" font-size="10px">+40%</text>
+				<line fill="none" stroke="#000000" x1="-6.514" y1="40.597" x2="-11.013" y2="40.597"/>
+				<line display="none" fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="40.597" x2="223.443" y2="40.597"/>
+				<text transform="matrix(1 0 0 1 -42.5044 42.9967)" display="none" font-family="'ArialMT'" font-size="10px">+40%</text>
 			</g>
 			<g transform="translate(0,69.38888888888886)">
-				<line fill="none" stroke="#000000" x1="-6.514" y1="5.213" x2="-11.013" y2="5.213"/>
-				<line fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="5.213" x2="223.5" y2="5.213"/>
-				<text transform="matrix(1 0 0 1 -42.5044 7.6131)" display="none" font-family="'ArialMT'" font-size="10px">+60%</text>
+				<line fill="none" stroke="#000000" x1="-6.514" y1="49.213" x2="-11.013" y2="49.213"/>
+				<line display="none" fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="49.213" x2="223.5" y2="49.213"/>
+				<text transform="matrix(1 0 0 1 -42.5044 51.6131)" display="none" font-family="'ArialMT'" font-size="10px">+60%</text>
 			</g>
 			<g transform="translate(0,34.94444444444443)">
-				<line fill="none" stroke="#000000" x1="-6.514" y1="13.829" x2="-11.013" y2="13.829"/>
-				<line fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="13.829" x2="223.443" y2="13.829"/>
-				<text transform="matrix(1 0 0 1 -42.5044 16.2284)" display="none" font-family="'ArialMT'" font-size="10px">+80%</text>
+				<line fill="none" stroke="#000000" x1="-6.514" y1="57.829" x2="-11.013" y2="57.829"/>
+				<line display="none" fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="57.829" x2="223.443" y2="57.829"/>
+				<text transform="matrix(1 0 0 1 -42.5044 60.2284)" display="none" font-family="'ArialMT'" font-size="10px">+80%</text>
 			</g>
 			<g transform="translate(0,34.94444444444443)">
-				<line fill="none" stroke="#000000" x1="-6.514" y1="-12.171" x2="-11.013" y2="-12.171"/>
-				<line fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="-12.171" x2="223.443" y2="-12.171"/>
-				<text transform="matrix(1 0 0 1 -42.5044 -9.7716)" display="none" font-family="'ArialMT'" font-size="10px">+80%</text>
+				<line fill="none" stroke="#000000" x1="-6.514" y1="31.829" x2="-11.013" y2="31.829"/>
+				<line display="none" fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="31.829" x2="223.443" y2="31.829"/>
+				<text transform="matrix(1 0 0 1 -42.5044 34.2284)" display="none" font-family="'ArialMT'" font-size="10px">+80%</text>
 			</g>
 			<g transform="translate(0,34.94444444444443)">
-				<line fill="none" stroke="#000000" x1="-6.514" y1="-38.171" x2="-11.013" y2="-38.171"/>
-				<line fill="none" stroke="#000000" stroke-opacity="0.1" x1="-6.514" y1="-38.171" x2="223.443" y2="-38.171"/>
-				<text transform="matrix(1 0 0 1 -42.5044 -35.7716)" display="none" font-family="'ArialMT'" font-size="10px">+80%</text>
+				<line fill="none" stroke="#000000" x1="-6.514" y1="5.829" x2="-11.013" y2="5.829"/>
+				<line fill="none" stroke="#000000" x1="-6.514" y1="5.829" x2="223.443" y2="5.829"/>
+				<text transform="matrix(1 0 0 1 -42.5044 8.2284)" display="none" font-family="'ArialMT'" font-size="10px">+80%</text>
 			</g>
 			<g transform="translate(0,0.5)">
-				<line fill="none" stroke="#000000" x1="-6.514" y1="22.445" x2="-11.013" y2="22.445"/>
-				<path fill="none" stroke="#000000" d="M223.443,22.445"/>
-				<path fill="none" stroke="#000000" d="M-6.514,22.445"/>
-				<text transform="matrix(1 0 0 1 -43.9531 24.8438)" display="none" font-family="'ArialMT'" font-size="8px">+100%</text>
+				<line fill="none" stroke="#000000" x1="-6.514" y1="66.445" x2="-11.013" y2="66.445"/>
+				<path fill="none" stroke="#000000" d="M223.443,66.445"/>
+				<path fill="none" stroke="#000000" d="M-6.514,66.445"/>
+				<text transform="matrix(1 0 0 1 -43.9531 68.8438)" display="none" font-family="'ArialMT'" font-size="8px">+100%</text>
 			</g>
-			<path fill="none" stroke="#000000" d="M-6.139,201.5v-205h-4.874"/>
+			<path fill="none" stroke="#000000" d="M-6.139,245.5v-205"/>
 		</g>
 		<g transform="translate(0,0)">
 			<g transform="translate(0.5,0)">
-				<line fill="none" stroke="#000000" x1="-6.639" y1="-2.43" x2="-6.639" y2="-6.929"/>
-				<text transform="matrix(1 0 0 1 -12.3711 -11.1787)" display="none" font-family="'ArialMT'" font-size="10px">$0</text>
+				<line fill="none" stroke="#000000" x1="-6.639" y1="41.57" x2="-6.639" y2="37.071"/>
+				<text transform="matrix(1 0 0 1 -12.3711 32.8213)" display="none" font-family="'ArialMT'" font-size="10px">$0</text>
 			</g>
 			<g transform="translate(133.83333333333334,0)">
-				<line fill="none" stroke="#000000" x1="-39.99" y1="-2.43" x2="-39.99" y2="-6.929"/>
-				<text transform="matrix(1 0 0 1 -53.2205 -11.1787)" display="none" font-family="'ArialMT'" font-size="10px">$50K</text>
+				<line fill="none" stroke="#000000" x1="-39.99" y1="41.57" x2="-39.99" y2="37.071"/>
+				<text transform="matrix(1 0 0 1 -53.2205 32.8213)" display="none" font-family="'ArialMT'" font-size="10px">$50K</text>
 			</g>
 			<g transform="translate(267.1666666666667,0)">
-				<line fill="none" stroke="#000000" x1="-73.342" y1="-2.43" x2="-73.342" y2="-6.929"/>
-				<text transform="matrix(1 0 0 1 -89.4381 -11.1787)" display="none" font-family="'ArialMT'" font-size="10px">$100K</text>
+				<line fill="none" stroke="#000000" x1="-73.342" y1="41.57" x2="-73.342" y2="37.071"/>
+				<text transform="matrix(1 0 0 1 -89.4381 32.8213)" display="none" font-family="'ArialMT'" font-size="10px">$100K</text>
 			</g>
 		</g>
 		<g>
 			<g>
-				<line fill="none" stroke="#666666" x1="-6.514" y1="126.452" x2="-4.514" y2="126.448"/>
-				<line fill="none" stroke="#666666" stroke-dasharray="3.9817,3.9817" x1="-0.532" y1="126.441" x2="220.452" y2="126.008"/>
-				<line fill="none" stroke="#666666" x1="222.443" y1="126.004" x2="224.443" y2="126"/>
+				<line fill="none" stroke="#666666" x1="-6.514" y1="170.452" x2="-4.514" y2="170.448"/>
+				<line fill="none" stroke="#666666" stroke-dasharray="3.9817,3.9817" x1="-0.532" y1="170.441" x2="220.452" y2="170.008"/>
+				<line fill="none" stroke="#666666" x1="222.443" y1="170.004" x2="224.443" y2="170"/>
 			</g>
 		</g>
 		<g transform="translate(320,133.5348147592504)">
 			<g display="none">
-				<text transform="matrix(1 0 0 1 -372.209 -10.8317)" display="inline" font-family="'ArialMT'" font-size="8px">M</text>
-				<text transform="matrix(1 0 0 1 -365.5449 -10.8317)" display="inline" font-family="'ArialMT'" font-size="8px">T</text>
-				<text transform="matrix(1 0 0 1 -360.8027 -10.8317)" display="inline" font-family="'ArialMT'" font-size="8px"> </text>
-				<text transform="matrix(1 0 0 1 -358.5801 -10.8317)" display="inline" font-family="'ArialMT'" font-size="8px">o</text>
-				<text transform="matrix(1 0 0 1 -354.1309 -10.8317)" display="inline" font-family="'ArialMT'" font-size="8px">v</text>
-				<text transform="matrix(1 0 0 1 -350.1309 -10.8317)" display="inline" font-family="'ArialMT'" font-size="8px">e</text>
-				<text transform="matrix(1 0 0 1 -345.6816 -10.8317)" display="inline" font-family="'ArialMT'" font-size="8px">r</text>
-				<text transform="matrix(1 0 0 1 -343.0176 -10.8317)" display="inline" font-family="'ArialMT'" font-size="8px">a</text>
-				<text transform="matrix(1 0 0 1 -338.5684 -10.8317)" display="inline" font-family="'ArialMT'" font-size="8px">l</text>
-				<text transform="matrix(1 0 0 1 -336.791 -10.8317)" display="inline" font-family="'ArialMT'" font-size="8px">l</text>
-				<text transform="matrix(1 0 0 1 -367.6973 -1.2321)" display="inline" font-family="'ArialMT'" font-size="8px">(</text>
-				<text transform="matrix(1 0 0 1 -365.0332 -1.2321)" display="inline" font-family="'ArialMT'" font-size="8px">+</text>
-				<text transform="matrix(1 0 0 1 -360.3613 -1.2321)" display="inline" font-family="'ArialMT'" font-size="8px">1</text>
-				<text transform="matrix(1 0 0 1 -355.9121 -1.2321)" display="inline" font-family="'ArialMT'" font-size="8px">9</text>
-				<text transform="matrix(1 0 0 1 -351.4629 -1.2321)" display="inline" font-family="'ArialMT'" font-size="8px">.</text>
-				<text transform="matrix(1 0 0 1 -349.2402 -1.2321)" display="inline" font-family="'ArialMT'" font-size="8px">6</text>
-				<text transform="matrix(1 0 0 1 -344.791 -1.2321)" display="inline" font-family="'ArialMT'" font-size="8px">%</text>
-				<text transform="matrix(1 0 0 1 -337.6777 -1.2321)" display="inline" font-family="'ArialMT'" font-size="8px">)</text>
+				<text transform="matrix(1 0 0 1 -372.209 33.1683)" display="inline" font-family="'ArialMT'" font-size="8px">M</text>
+				<text transform="matrix(1 0 0 1 -365.5449 33.1683)" display="inline" font-family="'ArialMT'" font-size="8px">T</text>
+				<text transform="matrix(1 0 0 1 -360.8027 33.1683)" display="inline" font-family="'ArialMT'" font-size="8px"> </text>
+				<text transform="matrix(1 0 0 1 -358.5801 33.1683)" display="inline" font-family="'ArialMT'" font-size="8px">o</text>
+				<text transform="matrix(1 0 0 1 -354.1309 33.1683)" display="inline" font-family="'ArialMT'" font-size="8px">v</text>
+				<text transform="matrix(1 0 0 1 -350.1309 33.1683)" display="inline" font-family="'ArialMT'" font-size="8px">e</text>
+				<text transform="matrix(1 0 0 1 -345.6816 33.1683)" display="inline" font-family="'ArialMT'" font-size="8px">r</text>
+				<text transform="matrix(1 0 0 1 -343.0176 33.1683)" display="inline" font-family="'ArialMT'" font-size="8px">a</text>
+				<text transform="matrix(1 0 0 1 -338.5684 33.1683)" display="inline" font-family="'ArialMT'" font-size="8px">l</text>
+				<text transform="matrix(1 0 0 1 -336.791 33.1683)" display="inline" font-family="'ArialMT'" font-size="8px">l</text>
+				<text transform="matrix(1 0 0 1 -367.6973 42.7679)" display="inline" font-family="'ArialMT'" font-size="8px">(</text>
+				<text transform="matrix(1 0 0 1 -365.0332 42.7679)" display="inline" font-family="'ArialMT'" font-size="8px">+</text>
+				<text transform="matrix(1 0 0 1 -360.3613 42.7679)" display="inline" font-family="'ArialMT'" font-size="8px">1</text>
+				<text transform="matrix(1 0 0 1 -355.9121 42.7679)" display="inline" font-family="'ArialMT'" font-size="8px">9</text>
+				<text transform="matrix(1 0 0 1 -351.4629 42.7679)" display="inline" font-family="'ArialMT'" font-size="8px">.</text>
+				<text transform="matrix(1 0 0 1 -349.2402 42.7679)" display="inline" font-family="'ArialMT'" font-size="8px">6</text>
+				<text transform="matrix(1 0 0 1 -344.791 42.7679)" display="inline" font-family="'ArialMT'" font-size="8px">%</text>
+				<text transform="matrix(1 0 0 1 -337.6777 42.7679)" display="inline" font-family="'ArialMT'" font-size="8px">)</text>
 			</g>
 		</g>
-		<g transform="translate(320,133.5348147592504)">
-			<text transform="matrix(1 0 0 1 -433.3496 -90.8317)" font-family="'Arial-ItalicMT'" font-size="8px">Faster</text>
-			<text transform="matrix(1 0 0 1 -436.0215 -81.2321)" font-family="'Arial-ItalicMT'" font-size="8px">growing</text>
-			<text transform="matrix(1 0 0 1 -434.9062 -71.6315)" font-family="'Arial-ItalicMT'" font-size="8px">sectors</text>
-		</g>
-		<g transform="translate(320,133.5348147592504)">
-			<text transform="matrix(1 0 0 1 -140.5801 -177.8317)" font-family="'Arial-ItalicMT'" font-size="8px">Higher</text>
-		</g>
-		<g transform="translate(320,133.5348147592504)">
-			<text transform="matrix(1 0 0 1 -311.0137 -177.8317)" font-family="'Arial-ItalicMT'" font-size="8px">Lower</text>
-		</g>
 		<g>
-			<line fill="none" stroke="#666666" stroke-dasharray="4" x1="67" y1="-20.5" x2="67" y2="201.5"/>
+			<line fill="none" stroke="#666666" stroke-dasharray="4" x1="68" y1="41.5" x2="67" y2="245.5"/>
 		</g>
 		<g transform="translate(103.392,20)">
 			<g display="none">
-				<text transform="matrix(1 0 0 1 -86.8524 -35.2969)" display="inline" font-family="'ArialMT'" font-size="8px">Montana avg.</text>
-				<text transform="matrix(1 0 0 1 -67.2939 -25.6973)" display="inline" font-family="'ArialMT'" font-size="8px">$36,900</text>
+				<text transform="matrix(1 0 0 1 -75.8524 8.7031)" display="inline" font-family="'ArialMT'" font-size="8px">Montana avg.</text>
+				<text transform="matrix(1 0 0 1 -56.2939 18.3027)" display="inline" font-family="'ArialMT'" font-size="8px">$36,900</text>
 			</g>
 		</g>
 		<g>
 			<g transform="translate(70.27604568370873,154.28981295716278)">
-				<circle fill="#E7298A" fill-opacity="0.7" stroke="#E7298A" stroke-opacity="0.9" cx="-24.092" cy="-16.024" r="11.974"/>
-				<text transform="matrix(1 0 0 1 -12.3688 -5.0242)" display="none" fill="#E7298A" font-family="'ArialMT'" font-size="10px">Retail</text>
-				<text transform="matrix(1 0 0 1 35.6312 -31.0242)" display="none" fill="#E7298A" font-family="'ArialMT'" font-size="10px">Wholesale trade</text>
+				<circle fill="#E7298A" fill-opacity="0.7" stroke="#E7298A" stroke-opacity="0.9" cx="-24.092" cy="27.976" r="11.974"/>
+				<text transform="matrix(1 0 0 1 -12.3688 38.9758)" display="none" fill="#E7298A" font-family="'ArialMT'" font-size="10px">Retail</text>
+				<text transform="matrix(1 0 0 1 35.6312 12.9758)" display="none" fill="#E7298A" font-family="'ArialMT'" font-size="10px">Wholesale trade</text>
 			</g>
 			<g transform="translate(131.07454394253057,112.36744693406767)">
-				<circle fill="#E6AB02" fill-opacity="0.7" stroke="#E6AB02" stroke-opacity="0.9" cx="-39.3" cy="-5.537" r="11.884"/>
-				<text transform="matrix(1 0 0 1 -30.6663 -13.5374)" display="none" fill="#E6AB02" font-family="'ArialMT'" font-size="10px">Healthcare &amp; social work</text>
+				<circle fill="#E6AB02" fill-opacity="0.7" stroke="#E6AB02" stroke-opacity="0.9" cx="-39.3" cy="38.463" r="11.884"/>
+				<text transform="matrix(1 0 0 1 -30.6663 30.4626)" display="none" fill="#E6AB02" font-family="'ArialMT'" font-size="10px">Healthcare &amp; social work</text>
 			</g>
 			<g transform="translate(55.74982633207603,127.78223165963672)">
-				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-20.459" cy="-9.393" r="10.432"/>
+				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-20.459" cy="34.607" r="10.432"/>
 			</g>
 			<g transform="translate(140.49815098322955,160.1188872927515)">
-				<circle fill="#A6761D" fill-opacity="0.7" stroke="#A6761D" stroke-opacity="0.9" cx="-41.657" cy="-17.482" r="9.454"/>
+				<circle fill="#A6761D" fill-opacity="0.7" stroke="#A6761D" stroke-opacity="0.9" cx="-41.657" cy="26.518" r="9.454"/>
 			</g>
-			<circle fill="#D95F02" fill-opacity="0.8" stroke="#D95F02" stroke-opacity="0.9" cx="65.74" cy="129.2" r="9.203"/>
+			<circle fill="#D95F02" fill-opacity="0.8" stroke="#D95F02" stroke-opacity="0.9" cx="65.74" cy="173.2" r="9.203"/>
 			<g transform="translate(105.0811281034153,112.90942545942191)">
-				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-32.798" cy="-5.673" r="8.475"/>
+				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-32.798" cy="38.327" r="8.475"/>
 			</g>
 			<g transform="translate(17.534895718181147,20.95561092654114)">
-				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-10.9" cy="17.328" r="8.235"/>
-				<text transform="matrix(1 0 0 1 -3.9153 13.3276)" display="none" fill="#66A61E" font-family="'ArialMT'" font-size="10px">Real estate</text>
+				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-10.9" cy="61.328" r="8.235"/>
+				<text transform="matrix(1 0 0 1 -3.9153 57.3276)" display="none" fill="#66A61E" font-family="'ArialMT'" font-size="10px">Real estate</text>
+				<text transform="matrix(1 0 0 1 114.0847 57.3276)" display="none" fill="#66A61E" font-family="'ArialMT'" font-size="10px">Business mangement</text>
 			</g>
 			<g transform="translate(55.422461090583354,146.82562625581284)">
-				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-20.377" cy="-14.156" r="8.183"/>
+				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-20.377" cy="29.844" r="8.183"/>
 			</g>
 			<g transform="translate(25.696455217694062,184.0656908761528)">
-				<circle fill="#1B9E77" fill-opacity="0.7" stroke="#1B9E77" stroke-opacity="0.9" cx="-12.941" cy="-23.472" r="7.518"/>
-				<text transform="matrix(1 0 0 1 -1.674 -23.4719)" display="none" fill="#1B9E77" font-family="'ArialMT'" font-size="10px">Farm</text>
+				<circle fill="#1B9E77" fill-opacity="0.7" stroke="#1B9E77" stroke-opacity="0.9" cx="-12.941" cy="20.528" r="7.518"/>
+				<text transform="matrix(1 0 0 1 -1.674 20.5281)" display="none" fill="#1B9E77" font-family="'ArialMT'" font-size="10px">Farm</text>
 			</g>
 			<g transform="translate(157.90061856169277,148.33629684764776)">
-				<circle fill="#A6761D" fill-opacity="0.7" stroke="#A6761D" stroke-opacity="0.9" cx="-46.01" cy="-14.534" r="7.184"/>
-				<text transform="matrix(1 0 0 1 -35.0769 -10.5345)" display="none" fill="#A6761D" font-family="'ArialMT'" font-size="10px">State govt.</text>
-				<text transform="matrix(1 0 0 1 -49.0769 1.4655)" display="none" fill="#A6761D" font-family="'ArialMT'" font-size="10px">Local govt.</text>
+				<circle fill="#A6761D" fill-opacity="0.7" stroke="#A6761D" stroke-opacity="0.9" cx="-46.01" cy="29.466" r="7.184"/>
+				<text transform="matrix(1 0 0 1 -35.0769 33.4655)" display="none" fill="#A6761D" font-family="'ArialMT'" font-size="10px">State govt.</text>
+				<text transform="matrix(1 0 0 1 -49.0769 45.4655)" display="none" fill="#A6761D" font-family="'ArialMT'" font-size="10px">Local govt.</text>
 			</g>
 			<g transform="translate(128.50048527984472,134.83125789568666)">
-				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-38.656" cy="-11.156" r="6.808"/>
+				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-38.656" cy="32.844" r="6.808"/>
 			</g>
 			<g transform="translate(73.09093409237794,149.98550882150488)">
-				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-24.796" cy="-14.947" r="6.741"/>
+				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-24.796" cy="29.053" r="6.741"/>
 			</g>
 			<g transform="translate(136.41323513000782,176.00050935021463)">
-				<circle fill="#7570B3" fill-opacity="0.7" stroke="#7570B3" stroke-opacity="0.9" cx="-40.636" cy="-21.454" r="6.692"/>
-				<text transform="matrix(1 0 0 1 -32.194 -14.4546)" display="none" fill="#7570B3" font-family="'ArialMT'" font-size="10px">Manufacturing</text>
+				<circle fill="#7570B3" fill-opacity="0.7" stroke="#7570B3" stroke-opacity="0.9" cx="-40.636" cy="22.546" r="6.692"/>
+				<text transform="matrix(1 0 0 1 -32.194 29.5454)" display="none" fill="#7570B3" font-family="'ArialMT'" font-size="10px">Manufacturing</text>
 			</g>
 			<g transform="translate(142.03635328176168,132.6495078012528)">
-				<circle fill="#E7298A" fill-opacity="0.7" stroke="#E7298A" stroke-opacity="0.9" cx="-42.042" cy="-10.61" r="6.284"/>
+				<circle fill="#E7298A" fill-opacity="0.7" stroke="#E7298A" stroke-opacity="0.9" cx="-42.042" cy="33.39" r="6.284"/>
 			</g>
 			<g transform="translate(45.846005934324594,98.58212251723536)">
-				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-17.982" cy="-2.089" r="6.139"/>
-				<text transform="matrix(1 0 0 1 -13.0931 -7.089)" display="none" fill="#66A61E" font-family="'ArialMT'" font-size="10px">Arts/recreation</text>
-				<text transform="matrix(1 0 0 1 40.0451 -63.089)" display="none" fill="#66A61E" font-family="'ArialMT'" font-size="10px">Business management</text>
+				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-17.982" cy="41.911" r="6.139"/>
+				<text transform="matrix(1 0 0 1 -13.0931 36.911)" display="none" fill="#66A61E" font-family="'ArialMT'" font-size="10px">Arts/recreation</text>
+				<text transform="matrix(1 0 0 1 47.9069 128.911)" display="none" fill="#66A61E" font-family="'ArialMT'" font-size="10px">Information</text>
 			</g>
 			<g transform="translate(133.10393545255195,147.75592006321529)">
-				<circle fill="#E7298A" fill-opacity="0.7" stroke="#E7298A" stroke-opacity="0.9" cx="-39.808" cy="-14.389" r="6.109"/>
+				<circle fill="#E7298A" fill-opacity="0.7" stroke="#E7298A" stroke-opacity="0.9" cx="-39.808" cy="29.611" r="6.109"/>
 			</g>
 			<g transform="translate(257.71134123768076,168.62024055772616)">
-				<circle fill="#A6761D" fill-opacity="0.7" stroke="#A6761D" stroke-opacity="0.9" cx="-70.977" cy="-19.608" r="4.998"/>
-				<text transform="matrix(1 0 0 1 -76.2299 -29.6085)" display="none" fill="#A6761D" font-family="'ArialMT'" font-size="10px">Federal</text>
+				<circle fill="#A6761D" fill-opacity="0.7" stroke="#A6761D" stroke-opacity="0.9" cx="-70.977" cy="24.392" r="4.998"/>
+				<text transform="matrix(1 0 0 1 -76.2299 14.3915)" display="none" fill="#A6761D" font-family="'ArialMT'" font-size="10px">Federal</text>
+				<text transform="matrix(1 0 0 1 -152.2299 49.3915)" display="none" fill="#A6761D" font-family="'ArialMT'" font-size="10px">Military</text>
 			</g>
 			<g transform="translate(143.33498468504462,37.36920422345693)">
-				<circle fill="#1B9E77" fill-opacity="0.7" stroke="#1B9E77" stroke-opacity="0.9" cx="-42.367" cy="13.223" r="4.843"/>
-				<text transform="matrix(1 0 0 1 -35.7744 23.2226)" display="none" fill="#1B9E77" font-family="'ArialMT'" font-size="10px">Mining/oil</text>
+				<circle fill="#1B9E77" fill-opacity="0.7" stroke="#1B9E77" stroke-opacity="0.9" cx="-42.367" cy="57.223" r="4.843"/>
+				<text transform="matrix(1 0 0 1 -35.7744 67.2226)" display="none" fill="#1B9E77" font-family="'ArialMT'" font-size="10px">Mining/oil</text>
 			</g>
 			<g transform="translate(52.75946890286512,56.501927795303175)">
-				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-19.711" cy="8.437" r="4.229"/>
+				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-19.711" cy="52.437" r="4.229"/>
 			</g>
 			<g transform="translate(130.11425978633008,196.21483769422844)">
-				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-39.06" cy="-26.51" r="3.892"/>
+				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-39.06" cy="17.49" r="3.892"/>
 			</g>
 			<g transform="translate(139.50689127105667,183.03631941952713)">
-				<circle fill="#A6761D" fill-opacity="0.7" stroke="#A6761D" stroke-opacity="0.9" cx="-41.41" cy="-23.214" r="3.832"/>
+				<circle fill="#A6761D" fill-opacity="0.7" stroke="#A6761D" stroke-opacity="0.9" cx="-41.41" cy="20.786" r="3.832"/>
 			</g>
 			<g transform="translate(59.57928549724357,156.75008673163651)">
-				<circle fill="#1B9E77" fill-opacity="0.7" stroke="#1B9E77" stroke-opacity="0.9" cx="-21.417" cy="-16.639" r="3.794"/>
+				<circle fill="#1B9E77" fill-opacity="0.7" stroke="#1B9E77" stroke-opacity="0.9" cx="-21.417" cy="27.361" r="3.794"/>
 			</g>
 			<g transform="translate(298.06264260526865,172.86285045119513)">
-				<circle fill="#1B9E77" fill-opacity="0.7" stroke="#1B9E77" stroke-opacity="0.9" cx="-81.07" cy="-20.669" r="2.454"/>
+				<circle fill="#1B9E77" fill-opacity="0.7" stroke="#1B9E77" stroke-opacity="0.9" cx="-81.07" cy="23.331" r="2.454"/>
 			</g>
 			<g transform="translate(191.3545384018619,23.41126375833531)">
-				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-54.378" cy="16.714" r="2.198"/>
+				<circle fill="#66A61E" fill-opacity="0.7" stroke="#66A61E" stroke-opacity="0.9" cx="-54.378" cy="60.714" r="2.198"/>
 			</g>
 		</g>
+	</g>
+	<g>
+		<g>
+			<circle fill="#848484" fill-opacity="0.7" stroke="#848484" stroke-opacity="0.9" cx="47.685" cy="25.646" r="2.288"/>
+			<circle fill="#848484" fill-opacity="0.7" stroke="#848484" stroke-opacity="0.9" cx="58.381" cy="25.646" r="5.835"/>
+			<circle fill="#848484" fill-opacity="0.7" stroke="#848484" stroke-opacity="0.9" cx="76.604" cy="25.646" r="9.635"/>
+			<g display="none">
+				<text transform="matrix(1 0 0 1 91.5693 23.252)" display="inline" font-family="'Arial-ItalicMT'" font-size="10px">Bigger</text>
+				<text transform="matrix(1 0 0 1 91.5693 33.252)" display="inline" font-family="'Arial-ItalicMT'" font-size="10px">sectors</text>
+			</g>
+			<g display="none">
+				<text transform="matrix(1 0 0 1 8.4995 23.252)" display="inline" font-family="'Arial-ItalicMT'" font-size="10px">Smaller</text>
+				<text transform="matrix(1 0 0 1 10.1646 33.252)" display="inline" font-family="'Arial-ItalicMT'" font-size="10px">sectors</text>
+			</g>
+		</g>
+		<g>
+			<g display="none">
+				<text transform="matrix(1 0 0 1 181.0928 23.1738)" display="inline" font-family="'Arial-ItalicMT'" font-size="10px">Higher</text>
+				<text transform="matrix(1 0 0 1 181.0928 33.1738)" display="inline" font-family="'Arial-ItalicMT'" font-size="10px">pay</text>
+			</g>
+			<g display="none">
+				<text transform="matrix(1 0 0 1 127.2646 23.1738)" display="inline" font-family="'Arial-ItalicMT'" font-size="10px">Lower</text>
+				<text transform="matrix(1 0 0 1 138.3779 33.1738)" display="inline" font-family="'Arial-ItalicMT'" font-size="10px">pay</text>
+			</g>
+			<g>
+				<line fill="none" stroke="#000000" stroke-width="1.5" x1="162.417" y1="25.447" x2="171.784" y2="25.447"/>
+				<g>
+					<polygon points="157.122,25.447 164.584,28.496 162.813,25.447 164.584,22.399 					"/>
+				</g>
+				<g>
+					<polygon points="177.079,25.447 169.617,28.496 171.388,25.447 169.617,22.399 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g display="none">
+				<text transform="matrix(1 0 0 1 262.7129 23.2246)" display="inline" font-family="'Arial-ItalicMT'" font-size="10px">Less</text>
+				<text transform="matrix(1 0 0 1 262.7129 33.2246)" display="inline" font-family="'Arial-ItalicMT'" font-size="10px">growth</text>
+			</g>
+			<g display="none">
+				<text transform="matrix(1 0 0 1 218.6602 23.2246)" display="inline" font-family="'Arial-ItalicMT'" font-size="10px">More</text>
+				<text transform="matrix(1 0 0 1 211.4287 33.2246)" display="inline" font-family="'Arial-ItalicMT'" font-size="10px">growth</text>
+			</g>
+			<g>
+				<line fill="none" stroke="#000000" stroke-width="1.5" x1="248.404" y1="31.483" x2="248.404" y2="22.326"/>
+				<g>
+					<polygon points="248.404,17.031 251.453,24.493 248.404,22.722 245.355,24.493 					"/>
+				</g>
+			</g>
+			<g>
+				<line fill="none" stroke="#000000" stroke-width="1.5" x1="256.662" y1="29.628" x2="256.662" y2="19.784"/>
+				<g>
+					<polygon points="256.662,34.924 259.711,27.462 256.662,29.233 253.614,27.462 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<polygon fill="#EDDC22" fill-opacity="0.2" points="258.5,309 147.5,309.5 147.5,326.5 258.5,326.5 		"/>
+		<rect x="40.5" y="292.5" fill="#EDDC22" fill-opacity="0.2" width="108" height="17"/>
+		<g>
+			<line fill="none" stroke="#666666" x1="40.5" y1="309.5" x2="42.5" y2="309.495"/>
+			<line fill="none" stroke="#666666" stroke-dasharray="4.0566,4.0566" x1="46.557" y1="309.486" x2="255.472" y2="309.009"/>
+			<line fill="none" stroke="#666666" x1="257.5" y1="309.005" x2="259.5" y2="309"/>
+		</g>
+		<line fill="none" stroke="#666666" stroke-dasharray="4" x1="148" y1="295.5" x2="148" y2="327"/>
 	</g>
 </g>
 <style type="text/css">
