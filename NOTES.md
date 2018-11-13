@@ -11,6 +11,27 @@ DATA SOURCES
 - Local area employment data - CA25N (historical, via API)
 - Income data (lookup table code)
 
+## TODO:  
+
+### Individual graphic polishing
+
+--> Graphic 5 is 'How the wages compare'
+--> Graphic 6 is 'And the other pieces of income'. Point out that investments & transfers are also a thing, and that rural areas make up some of their income doing that.
+
+
+
+### Writing
+
+### Production
+- Add pym.js code to ai2html code block so individual graphics export as complete packages ready for a standalone embed
+- Set by-graphic max-width to help with visual dominance order
+- Export final graphics as static print/png versions
+
+### Stretch goals
+- Mock up a scrollytelling version of the graphic to at least show Derek
+- Interactive version of economy overview for desktop display - pre-render as much as possible, figure out how to set up code to call interactive with static fallback if necessary
+- 'Find-a-county' interactive --> As observable notebook
+
 TODO
 - Fine-tune other graphs
 - Build sector key/explanation
@@ -123,3 +144,13 @@ Text:
 Have questions about the stories behind these trends? We do too -- and plan to dig into several of them as the Long Streets Project continues. We'd love to hear from you at staff@longstreetmt.com if you want to encourage us to look into something specific or if you have insight worth sharing. Sign up for our email newsletter if you want to follow along, too -- the next installment will discuss some of the things these numbers can't tell you.
 
 [NEWSLETTER SUBSCRIBE BOX]
+
+# Build processs, prepping for Pym distribution
+
+Target: Directory of bundled .html files and assets ready to SFTP up to wordpress site for embedding via Pym
+
+TODO - automate this
+
+Use template.html in graphic-design folder to build a "preview" graphic
+--> copy resulting .html to dist-indiv
+--> copy graphics folder to dist-indiv/assets/graphics (should avoid need to change link paths)
